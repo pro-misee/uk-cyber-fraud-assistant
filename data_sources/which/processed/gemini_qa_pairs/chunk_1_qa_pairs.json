@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "My credit card was stolen and used to buy things. What should I do?",
+    "input": "",
+    "output": "It's understandable to be distressed when your card is stolen and used fraudulently. The most important thing is to act quickly. You should contact your bank or card provider immediately to report the theft and cancel the card. This will prevent any further fraudulent transactions. You have the right to get your money back for any unauthorized transactions, but you must report the issue as soon as you become aware of it. Your bank will investigate the fraud and, in most cases, will refund the money to your account. You can also use the Which? template letter to ask your bank for a refund for a disputed transaction.",
+    "source_document": "Card fraud Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/card-fraud",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I might have accidentally given my bank details to a scammer. What should I do now?",
+    "input": "",
+    "output": "It's a scary situation, but there are immediate steps you can take to protect yourself. First, contact your bank or financial institution right away. They can take action to secure your account, such as blocking your card or monitoring for suspicious activity. It's also a good idea to change your passwords for any online banking or other sensitive accounts. Be sure to keep a close eye on your bank statements for any transactions you don't recognize. Reporting the incident to Action Fraud will help them build a picture of the latest scams and potentially prevent others from becoming victims. Remember, acting quickly is key to minimizing any potential damage.",
+    "source_document": "Card fraud Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/card-fraud",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I came across a scam online. How can I report it?",
+    "input": "",
+    "output": "It's great that you want to report the scam and help protect others. You can use the Which? scam sharer tool to report the details of the scam. The tool will ask you a series of questions about the scam, such as how you came across it and what it was about. By sharing this information, you can help Which? to warn others about the scam and to campaign for better protection for consumers. You can also report the scam to Action Fraud, which is the UK's national reporting centre for fraud and cybercrime. By working together, we can make it harder for scammers to operate.",
+    "source_document": "Share scam details",
+    "source_url": "https://www.which.co.uk/tool/scam-sharer",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]

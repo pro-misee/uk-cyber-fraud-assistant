@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "Where can I find resources to help me avoid scams?",
+    "input": "",
+    "output": "The FCA provides a range of resources to help you avoid scams. You can download their campaign resources to learn more about savings, loan fee fraud, and how to avoid investment and pension scams. They also have a ScamSmart website with information and tools to help you be a ScamSmart investor. You can use the ScamSmart Investment Checker to check an investment or pension opportunity you've been offered. They also have resources on their website about how to protect yourself from scams, including how to spot the warning signs and what to do if you've been scammed. By using these resources, you can arm yourself with the knowledge you need to stay safe from financial scams.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about investment scams. What can I do?",
+    "input": "",
+    "output": "It's right to be cautious about investment scams. The FCA has a lot of information to help you protect yourself. You can use their ScamSmart website to learn about different types of investment scams, such as cryptoasset scams, boiler room scams, and land banking scams. They also have a ScamSmart Investment Checker that you can use to check an investment opportunity you've been offered. It's important to remember that if an investment sounds too good to be true, it probably is. You should always check that the firm you are dealing with is authorized by the FCA, and you should never feel pressured to make a quick decision. By being informed and cautious, you can significantly reduce your risk of becoming a victim of an investment scam.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted by someone who says they are from the FCA. How can I be sure they are genuine?",
+    "input": "",
+    "output": "You should always be wary of anyone who contacts you claiming to be from the FCA. The FCA will never ask you to transfer money to them, and they will never ask for your bank account PINs or passwords. If you are contacted by someone who says they are from the FCA, you should not give them any personal or financial information. Instead, you should end the call and contact the FCA directly using the contact details on their website. You can also check the FCA's website for information on how to spot fake FCA communications. By being vigilant, you can protect yourself from scammers who may be impersonating the FCA.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the common signs of a financial scam?",
+    "input": "",
+    "output": "Financial scams can be very sophisticated, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. Scammers often promise high returns on an investment, or they may offer you a bonus or discount if you invest quickly. They may also claim that the opportunity is only available for a short time, or that it is an exclusive offer just for you. Scammers may also try to build a friendship with you to put you at ease, or they may try to influence your emotions to get you to act. If you notice any of these warning signs, you should be very suspicious and should not proceed with the investment.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  }
+]

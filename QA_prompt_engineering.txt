@@ -1,0 +1,84 @@
+I have a JSON file (compiled_dataset.json) containing UK cyber fraud prevention content. I need you to:
+
+🔹 Tasks
+Auto-split the dataset into chunks of 2–3 documents each
+
+Generate 3–5+ Q&A pairs per document within each chunk
+
+Save each chunk's output as a separate file in data_sources/[source_name]/processed/gemini_qa_pairs/
+
+Create a final combined file (final_combined_qa_pairs.json) with all Q&A pairs
+
+🔹 Chunking Instructions
+Read the full compiled_dataset.json
+
+Automatically group every 2–3 documents into a chunk
+
+Process each chunk individually for higher Q&A quality
+
+Save outputs as:
+
+bash
+Copy
+Edit
+data_sources/[source_name]/processed/gemini_qa_pairs/
+├── chunk_1_qa_pairs.json
+├── chunk_2_qa_pairs.json
+└── ...
+🔹 Q&A Generation Guidelines
+Questions (written from a victim’s perspective and based only on that chunk's content):
+
+"I think I’ve been scammed — what should I do?"
+
+"Someone asked for my bank details. Is this legit?"
+
+"I clicked a suspicious link — what now?"
+
+"How can I recognize [specific threat]?"
+
+Answers should be:
+
+Empathetic, supportive, and informative
+
+Strictly grounded in the source document
+
+Use second-person ("you") language
+
+100–300 words long
+
+Include specific resources (e.g. helplines, URLs) if present in source
+
+Focused on cyber fraud, phishing, identity theft, and digital security
+
+🔹 Output Format per Chunk
+Each chunk file should be a valid JSON array:
+```json
+[
+  {
+    "instruction": "Victim-focused question?",
+    "input": "",
+    "output": "Empathetic, comprehensive answer...",
+    "source_document": "Document title",
+    "source_url": "Document URL",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]
+```
+
+🔹 Final Combined File Format
+The final_combined_qa_pairs.json must be ONE valid JSON array containing ALL Q&A pairs:
+```json
+[
+  { "instruction": "...", "input": "", "output": "...", ... },
+  { "instruction": "...", "input": "", "output": "...", ... },
+  ...
+]
+```
+🔹 Final Step
+**IMPORTANT**: Compile ALL Q&A pairs from all chunks into a SINGLE JSON array and save as final_combined_qa_pairs.json. The file must contain one valid JSON array with all Q&A pairs combined - do NOT create multiple separate arrays.
+
+🔹 Start Instruction
+Please read the compiled_dataset.json from the appropriate data_sources/[source_name]/scraped/ directory and carry out the above steps automatically.
+

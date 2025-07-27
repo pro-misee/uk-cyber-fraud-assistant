@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "I paid for something with my debit card and it turned out to be a scam. Can I get my money back?",
+    "input": "",
+    "output": "If you used your debit card to pay for something that turned out to be a scam, you may be able to get your money back through the chargeback scheme. Chargeback is not a legal requirement, but it is a scheme that most banks subscribe to. You should contact your bank as soon as possible to report the scam and ask them to start the chargeback process. There are no guarantees that you will get your money back, but it is definitely worth trying. You can use the Which? template letter to help you with your claim.",
+    "source_document": "Get your money back from a scamAdvice for what your next step should be to help you get your money back.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I was tricked into transferring money to a scammer's bank account. What should I do?",
+    "input": "",
+    "output": "This is known as an authorised push payment (APP) scam, and it can be very distressing. The first thing you should do is contact your bank immediately. They can try to recover the funds from the scammer's account. You should also report the scam to Action Fraud. A new reimbursement requirement for APP scams came into force on 7 October 2024, which means that you are more likely to get your money back if you are a victim of this type of scam. However, it is still important to act quickly and to report the scam to your bank and to Action Fraud.",
+    "source_document": "Get your money back from a scamAdvice for what your next step should be to help you get your money back.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert for a diet pill called Nixol that claims to be endorsed by Dragons' Den. Is this a real product?",
+    "input": "",
+    "output": "You are right to be skeptical of the Nixol diet pill adverts. Which? has found that these adverts are part of a scam that falsely claims to be endorsed by Dragons' Den. The adverts often make unrealistic claims about weight loss and may use fake celebrity endorsements to lure you in. The websites associated with the scam are often newly created and may have vague contact details. You should not buy this product, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims of these fraudulent health claims.",
+    "source_document": "Watch out for the Nixol diet pill scam",
+    "source_url": "https://www.which.co.uk/news/article/watch-out-for-the-nixol-diet-pill-scam-aIVRx1q4BYP6",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  }
+]

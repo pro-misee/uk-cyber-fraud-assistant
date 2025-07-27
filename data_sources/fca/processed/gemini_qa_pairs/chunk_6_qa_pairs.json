@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I was contacted by someone who wanted me to share my screen. What is a screen sharing scam?",
+    "input": "",
+    "output": "A screen sharing scam is a method that fraudsters use to gain access to your personal and financial information. They may contact you out of the blue, pretending to be from a legitimate company, such as your bank or an investment firm. They will then try to convince you to download screen sharing software, which will give them remote access to your computer. Once they have access to your screen, they can see everything you do, including your online banking details, passwords, and other sensitive information. They can then use this information to steal your money and your identity. It is important to remember that a legitimate company will never ask you to share your screen. If you are ever asked to do this, you should refuse and end the call immediately.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from screen sharing scams?",
+    "input": "",
+    "output": "To protect yourself from screen sharing scams, you should never share your screen with anyone who contacts you unexpectedly, even if they claim to be from a legitimate company. You should also be wary of anyone who puts you under pressure to make a quick decision, or who promises you high returns on an investment. If you are unsure about a company, you should check the FCA's Financial Services Register to see if they are authorized. You should also be careful about what information you share online, as scammers can use this information to target you. If you think you have been a victim of a screen sharing scam, you should contact your bank and the FCA immediately.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been scammed. What should I do?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop all contact with the scammers and do not send them any more money. You should then contact your bank to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to the FCA and Action Fraud. By reporting the scam, you can help to protect others from becoming victims. It's also a good idea to talk to someone you trust, such as a friend or family member. Being scammed can be a very stressful experience, and it's important to get support.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the common signs of a financial scam?",
+    "input": "",
+    "output": "Financial scams can be very sophisticated, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. Scammers often promise high returns on an investment, or they may offer you a bonus or discount if you invest quickly. They may also claim that the opportunity is only available for a short time, or that it is an exclusive offer just for you. Scammers may also try to build a friendship with you to put you at ease, or they may try to influence your emotions to get you to act. If you notice any of these warning signs, you should be very suspicious and should not proceed with the investment.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  }
+]

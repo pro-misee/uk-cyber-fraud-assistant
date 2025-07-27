@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "I received an email asking for my personal details. How can I tell if it's a scam?",
+    "input": "",
+    "output": "You're right to be cautious about unexpected emails asking for personal information. A key sign of a scam is being contacted out of the blue. Legitimate organizations will rarely ask for sensitive information without you expecting them to. You should also be wary of any email that creates a sense of urgency, or that asks you to pay in an unusual way, such as with cryptocurrency. If you are not 100% sure about the identity of the sender, do not click on any links or download any attachments. Instead, you should contact the company directly using the contact details on their official website. By being vigilant, you can protect yourself from phishing scams and keep your personal information safe.",
+    "source_document": "How to spot a scam - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about being scammed. What are some general tips to protect myself?",
+    "input": "",
+    "output": "It's great that you're being proactive about protecting yourself from scams. A good rule of thumb is to be suspicious of any unexpected contact, whether it's a phone call, email, or text message. You should never share your personal or financial information with anyone you don't know and trust. It's also a good idea to be wary of any offer that seems too good to be true, as it probably is. If you are ever unsure about something, you should talk to a friend or family member about it. Scammers often try to isolate their victims, so getting a second opinion can be very helpful. By following these simple tips, you can significantly reduce your risk of becoming a victim of a scam.",
+    "source_document": "How to spot a scam - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted by someone I think is a scammer. How can I protect myself?",
+    "input": "",
+    "output": "It can be difficult to tell if you are being scammed, but there are some things you can do to protect yourself. First, you should never give out your personal or financial information to anyone you don't know and trust. You should also be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. If you are not sure about something, you should talk to a friend or family member about it. Scammers often try to isolate their victims, so getting a second opinion can be very helpful. You should also be wary of anyone who asks you to pay in an unusual way, such as with a gift card or a wire transfer. By being cautious and following these tips, you can help to protect yourself from scams.",
+    "source_document": "Spot and protect yourself from scamsKeep up to date with the latest scams to watch out for and tips to keep you safe.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  }
+]

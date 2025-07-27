@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "I'm a woman working in finance. What is UK Finance doing to promote gender diversity?",
+    "input": "",
+    "output": "UK Finance is a signatory to the HM Treasury Women in Finance Charter, which is a commitment to build a more balanced and fair financial services industry. As part of this commitment, UK Finance has set internal targets for gender diversity in senior management and publishes its progress annually. They have already met their initial target of 40% female representation in senior management and are now aiming for gender parity by the end of 2023. This commitment to diversity and inclusion is supported by gender equality across the organization in middle management and more junior roles. By taking these steps, UK Finance is working to create a more inclusive and productive working environment for everyone in the financial services industry.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is UK Finance doing to combat fraud?",
+    "input": "",
+    "output": "UK Finance is taking a leading role in the fight against fraud. They have launched an industry-wide strategy to tackle and prevent fraud and scams, including Authorised Push Payment (APP) fraud. This strategy involves collaboration with a wide range of stakeholders, including technology companies, regulators, and government, to stop fraud at its source. A key part of this strategy is to improve information sharing within the financial services industry and with other stakeholders. This includes real-time data sharing in the payment journey and technical developments to help payment service providers manage risk more effectively. By working together with other sectors, UK Finance is aiming to close down vulnerabilities across the wider ecosystem and protect consumers from fraud.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is Cyber Essentials and why is it important?",
+    "input": "",
+    "output": "Cyber Essentials is a government-backed scheme that helps organizations protect themselves from common cyber attacks. It is important because the majority of cyber attacks are basic in nature and can be prevented by implementing basic security controls. The Cyber Essentials scheme provides advice on how to do this, and it allows organizations to choose the level of commitment they want to make. By being part of the Cyber Essentials scheme, organizations can demonstrate their commitment to cyber security and give their customers peace of mind. UK Finance is proud to hold the advanced Cyber Essentials Plus certificate, which shows that their IT estate has been independently reviewed and verified.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  }
+]

@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I'm a vulnerable customer. What is UK Finance doing to protect me?",
+    "input": "",
+    "output": "UK Finance and its members are committed to protecting vulnerable customers. They are working to ensure that you can access and use financial services and products, and that you are treated with empathy and respect. They are also helping their members to implement the FCA's Finalised Vulnerability Guidance, which sets out how firms should support vulnerable customers. In addition, UK Finance has developed a Financial Abuse Code, which many of its members have signed up to. This code is designed to help financial services providers to support customers who are victims of financial abuse. By taking these steps, UK Finance is working to ensure that you receive the support you need and that you are treated fairly.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm concerned about economic abuse. What is being done to address this issue?",
+    "input": "",
+    "output": "Economic abuse is a serious issue, and UK Finance is working to address it. The Domestic Abuse Act 2021 criminalized economic abuse for the first time, and the government has published a Tackling Domestic Abuse Plan. UK Finance's Financial Abuse Code is a key part of this plan, and it is designed to help financial services providers to support customers who are victims of financial abuse. The code sets out how firms should respond to disclosures of economic abuse, and it provides guidance on how to identify and support victims. By working with the government and its members, UK Finance is helping to ensure that victims of economic abuse receive the support they need.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been scammed. What should I do?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop and think before you part with any money or information. It's okay to reject, refuse, or ignore any requests that you're not sure about. You should then contact your bank immediately to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to Action Fraud. If you are in Scotland, you should report it to Police Scotland. By reporting the scam, you can help to protect others from becoming victims.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 3,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from scams?",
+    "input": "",
+    "output": "To protect yourself from scams, you should follow the advice of the Take Five to Stop Fraud campaign. First, you should always stop and think before you part with your money or information. It's okay to challenge any requests that you're not sure about, and you should never feel rushed or panicked into making a decision. You should also be wary of anyone who contacts you unexpectedly, and you should never give out your personal or financial information unless you are sure who you are dealing with. If you think you have been scammed, you should contact your bank immediately and report it to Action Fraud. By following these simple steps, you can significantly reduce your risk of becoming a victim of fraud.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 3,
+    "document_index": 6,
+    "generated_by": "gemini"
+  }
+]

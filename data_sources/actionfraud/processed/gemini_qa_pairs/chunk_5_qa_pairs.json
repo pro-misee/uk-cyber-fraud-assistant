@@ -1,0 +1,132 @@
+[
+  {
+    "instruction": "I'm in Scotland - can I still report fraud to Action Fraud?",
+    "input": "",
+    "output": "If you're in Scotland, you should report fraud directly to Police Scotland rather than Action Fraud. Police Scotland has not signed up to the Action Fraud process, so they handle fraud reports differently in Scotland. You can find guidance on how to report scams and fraud on the Police Scotland website under their 'Scams and frauds' section. This is important to know because Action Fraud covers England, Wales, and Northern Ireland, but Scotland has its own system. If you're unsure about which agency to contact, you can always call Police Scotland on 101 for guidance. They'll be able to direct you to the right place and help you report the fraud properly. Don't let this difference in systems discourage you from reporting - it's just as important to report fraud in Scotland, and Police Scotland is well-equipped to help you.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I reported a fraud but haven't heard anything back. How can I get an update on my case?",
+    "input": "",
+    "output": "If you registered on the Action Fraud website when you made your report, you can track its progress by logging into your account. After logging in, click on 'My account' in the top right corner and then click 'My reports' to see the status. If you didn't register at the time of reporting, unfortunately this tracking feature won't be available to you, but you should still receive an outcome notification in due course by email or post. If you have more questions about your report, you can use their web chat service which is available 24 hours a day. Remember that not all reports result in individual police investigations - some are used for intelligence purposes to build a bigger picture of fraud patterns, while others may be sent to prevention teams to block fraudulent phone numbers or websites. This doesn't mean your report isn't valuable - every piece of information helps protect others from similar scams.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I need to report something but I'm deaf and use British Sign Language. Can Action Fraud help me?",
+    "input": "",
+    "output": "Yes, Action Fraud provides excellent support for deaf and hard of hearing people who use British Sign Language. They work with SignVideo, the UK's leading BSL video interpreting service, to help you report fraud. To use this service, download the SignVideo app on your mobile device. When you open the app, scroll down the SignDirectory until you find 'Action Fraud' and click on it. A qualified BSL interpreter will appear on your screen to help interpret your conversation with Action Fraud. To use SignVideo, you'll need a device with a camera (phone, tablet, or computer), a webcam (built-in or plugged-in), and a good internet connection (minimum 2mbps upload and download speed). The service works on 3G, 4G, 5G networks, WiFi, or wired broadband. If you have any technical issues, you can contact SignVideo customer services through their BSL service at customer.signvideo.me or email their technical support team. This ensures you have equal access to fraud reporting services and can get the help you need in your preferred language.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What types of crimes can't I report to Action Fraud? I'm not sure if my case qualifies.",
+    "input": "",
+    "output": "Action Fraud specifically handles fraud and cybercrime reports, but there are several types of crimes they cannot take reports for. You cannot report theft of a vehicle, suspicious online behavior involving children, online hate or bullying, counterfeit medicine purchases, business or personal tax fraud, benefit fraud, immigration fraud, or counterfeit currency to Action Fraud. For vehicle theft, you should report to the police directly. For suspicious online behavior with children, contact CEOP (Child Exploitation and Online Protection). Online hate crimes should go to your local police. Tax fraud goes to HMRC, benefit fraud to the relevant benefits agency, and immigration fraud to the Home Office. Counterfeit currency should be reported to your local police station. If you're unsure whether your situation qualifies as fraud, it's worth calling Action Fraud on 0300 123 2040 anyway - they can guide you to the right organization if they can't help directly. Don't let uncertainty stop you from seeking help - it's better to ask and be redirected than not to report at all.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I want to withdraw my fraud report because I got my money back. Is this possible?",
+    "input": "",
+    "output": "Yes, you can usually withdraw your fraud report if the circumstances have changed significantly from what you originally reported. Action Fraud commonly handles withdrawals when situations turn out differently than first thought. For example, if you reported online shopping fraud because goods didn't arrive, but they were simply delivered late or the seller provided a full refund for items they couldn't supply, this would be grounds for withdrawal. Similarly, if what you thought was a fraudulent bank transaction turned out to be a legitimate charge or a banking error that's been resolved, you can request withdrawal. Another common scenario is when you receive a full refund from your bank or payment provider after you've already reported the fraud. To request a withdrawal, contact Action Fraud and explain the changed circumstances. They'll need to confirm that the situation is indeed different from what was originally reported. Having your money returned is great news, and it's responsible of you to let them know so they can focus resources on cases where victims still need help.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried the fraudulent activity I experienced might be connected to terrorism funding. Should I still report to Action Fraud?",
+    "input": "",
+    "output": "Yes, you should absolutely report this to Action Fraud, and it's important that you do. You may be right to be concerned - terrorists, like other criminals, sometimes need access to funds to help them plan activities. If you've noticed suspicious or unusual bank transactions, or if someone has passports or documents in different names for no obvious reason, these could be warning signs. Don't worry about potentially wasting police time or getting someone in trouble unnecessarily - you are not wasting anyone's time, and no call will be ignored. What you tell them is treated in strict confidence and thoroughly researched by experienced officers before any police action is taken. If you see or hear something unusual or suspicious, trust your instincts and act - Action Counters Terrorism. You can report your concerns to Action Fraud as normal, or you can also visit gov.uk/ACT to make an online report specifically about potential terrorism connections. When attacks have happened in the past, people often say they suspected something was wrong but hesitated to come forward. Your vigilance could be crucial in preventing serious crimes.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What actually happens to my report after I submit it to Action Fraud? Will police investigate my case?",
+    "input": "",
+    "output": "After you submit your report to Action Fraud, it goes to the National Fraud Intelligence Bureau (NFIB) for assessment. The NFIB will analyze your report alongside thousands of others to build a clearer picture of fraud patterns across the UK. Experienced reviewers will assess whether there's enough information to send your case to a police force for investigation. However, it's important to understand that not all reports result in individual police investigations. Some reports are sent to forces as intelligence to help them take appropriate action, while others go to Prevention and Disruption Teams who can block fraudulent phone numbers or websites to prevent others becoming victims. Police forces cannot be compelled to investigate every case - they review each report and decide their course of action based on various factors. Even if your specific case isn't individually investigated, your report is valuable because it contributes to the intelligence picture that helps law enforcement understand fraud trends and protect future victims. Every report matters in the fight against fraud.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I registered on the Action Fraud website but didn't receive a confirmation email. What should I do?",
+    "input": "",
+    "output": "This is a common issue that's usually easy to resolve. First, check your Spam or Junk email folder - confirmation emails sometimes get filtered there by mistake. If your email is set to automatically delete spam, also check your deleted or trash folder as the email might have ended up there. Sometimes it can take a few minutes for the confirmation email to arrive, so if you've just registered, wait a little longer before worrying. If you still can't find the confirmation email after checking all these places, call Action Fraud on 0300 123 2040 and they can help you resolve the registration issue. Don't let this technical problem prevent you from reporting fraud or accessing the useful features that come with registration, like tracking your report's progress and being able to add information later. The registration system is designed to make reporting easier for you, so it's worth getting this sorted out.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Can I send physical evidence like documents or items to Action Fraud with my report?",
+    "input": "",
+    "output": "No, Action Fraud cannot accept physical correspondence or evidence when you make a report. However, this doesn't mean your evidence is worthless - you should definitely keep hold of any physical evidence you have, as it may be required later if there's a police investigation into your case. This includes things like fake documents, counterfeit items, suspicious letters, or any other physical evidence related to the fraud you experienced. Store these items safely and make sure they're properly labeled so you know what they relate to. If your case does get referred to police for investigation, they will contact you about any evidence they need. You can add information about what physical evidence you have when you make your online report, so investigators know it exists. The online reporting system is designed to capture all the important details digitally, but physical evidence can still play a crucial role if your case moves to formal investigation.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I made a report years ago before 2018 but can't access it on the new website. What happened to my case?",
+    "input": "",
+    "output": "If you made your report before 6th October 2018, your case details are still on record, but the Action Fraud website has been upgraded since then. Unfortunately, the old NFRC reference number and password you were given won't work with the new website system, and registering on the new website won't give you access to your old report. This doesn't mean your report has been lost or forgotten - it's still in the system and being processed. Action Fraud aims to send updates within 4-6 weeks after a report is made, though this can sometimes take longer for complex cases. If you haven't received an update about your old report and you're concerned about its progress, you can call Action Fraud on 0300 123 2040 with your old reference number and they should be able to give you information about the status. The website upgrade was necessary to improve services, but they understand it can be frustrating not to be able to track older reports online.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a letter mentioning 'Falcon North' - what does this mean for my fraud case?",
+    "input": "",
+    "output": "If you received a letter mentioning 'Falcon North' (or Falcon East, South, or West), this means your fraud report has been sent to the Metropolitan Police Service team that covers that particular area of London. Operation Falcon refers to the different geographical areas within the Metropolitan Police Service - North, East, South, and West cover different boroughs in London. This is actually positive news because it means your case has been assessed by the National Fraud Intelligence Bureau and deemed suitable to send to the relevant police team for their consideration. The specific Falcon area mentioned corresponds to where the fraud occurred or where key evidence points to. For example, if your letter mentions Falcon North, your case has been sent to the Metropolitan Police team covering the northern boroughs of London. This doesn't guarantee investigation, but it means your report has been taken seriously and passed to the appropriate local police team who can decide on the best course of action for your specific case.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "English isn't my first language. Can I report fraud to Action Fraud in my own language?",
+    "input": "",
+    "output": "Yes, Action Fraud runs a service in multiple languages to help people whose first language isn't English. This is important because fraud can affect anyone regardless of their language background, and everyone deserves to be able to report crimes in a language they're comfortable with. For more detailed information about what languages are available and how to access these services, you should visit the Action Fraud website at actionfraud.police.uk where they provide guidance on language support options. You can also call them on 0300 123 2040 to discuss what language support they can provide for your specific needs. Don't let language barriers prevent you from reporting fraud - Action Fraud recognizes that the UK is a diverse country and they're committed to making their services accessible to everyone. Getting help in your preferred language can make the reporting process much less stressful and ensure you can provide all the important details about what happened to you.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is the National Economic Crime Victim Care Unit and how can they help me?",
+    "input": "",
+    "output": "The National Economic Crime Victim Care Unit (NECVCU) is a specialist team within the City of London Police that provides enhanced support for vulnerable people who have been victims of fraud and cyber crime. Their main goals are to make you feel safer and reduce the likelihood of you becoming a repeat victim of fraud. The NECVCU team consists of specially trained advocates who understand the particular challenges faced by fraud victims, especially those who might be more vulnerable due to age, disability, or other circumstances. They can provide personalized support, practical advice, and help coordinate with other agencies to ensure you get comprehensive assistance. If you've been a victim of fraud and feel you might benefit from this additional support - particularly if you're worried about being targeted again or if the fraud has significantly impacted your confidence or wellbeing - you can ask about being referred to the NECVCU when you report to Action Fraud. This service recognizes that fraud can have lasting emotional and practical impacts beyond just the financial loss, and provides the extra care some victims need.",
+    "source_document": "Frequently asked questions",
+    "source_url": "https://www.actionfraud.police.uk/faq",
+    "chunk_number": 5,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]

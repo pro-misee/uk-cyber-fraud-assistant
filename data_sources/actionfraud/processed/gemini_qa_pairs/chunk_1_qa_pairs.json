@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "I think I've been scammed and lost money. How do I report this to the police?",
+    "input": "",
+    "output": "I understand how distressing this must be for you. If you've been scammed and lost money, you should report it to Action Fraud, which is the UK's national reporting centre for fraud and cyber crime. You can report online at any time using their reporting tool at actionfraud.police.uk, which will guide you through simple questions to identify what happened. Their advisors are available 24 hours a day to help you. You can also call them on 0300 123 2040 (Monday to Friday, 8am-8pm). If you register online, you'll be able to track your report's progress and receive updates by email. Remember, this isn't your fault, and reporting helps protect others from similar scams.",
+    "source_document": "Reporting fraud and cyber crime",
+    "source_url": "https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone is in my computer right now and demanding money. What should I do immediately?",
+    "input": "",
+    "output": "This is a very serious situation and you need to act quickly. If you're a business, charity, or organisation currently suffering a live cyber attack, call Action Fraud immediately on 0300 123 2040 - this service is available 24 hours a day, 7 days a week. Disconnect your computer from the internet if possible to prevent further damage. Do not pay any money to the criminals as this won't guarantee they'll stop the attack. If you're a member of the public, the phone service is available Monday to Friday 8am-8pm, but you should also consider calling 999 if you feel you're in immediate danger. Don't panic - help is available and you can get through this.",
+    "source_document": "Reporting fraud and cyber crime",
+    "source_url": "https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm deaf and need to report a fraud. Can Action Fraud help me?",
+    "input": "",
+    "output": "Yes, absolutely. Action Fraud provides support for deaf and hard of hearing people. You can contact them using textphone on 0300 123 2050. They understand that everyone deserves accessible support when reporting fraud, regardless of hearing ability. The textphone service allows you to communicate directly with their advisors who can help you through the reporting process. You can also use their online reporting tool at actionfraud.police.uk, which may be easier as it's visual and doesn't require phone communication. Don't let communication barriers prevent you from getting the help you need - these services are specifically designed to support you.",
+    "source_document": "Reporting fraud and cyber crime",
+    "source_url": "https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a suspicious email asking for my bank details. Should I report this even though I didn't fall for it?",
+    "input": "",
+    "output": "Yes, you should definitely report it! Even though you didn't fall for the scam, reporting suspicious emails helps protect many other people who might not be as cautious as you were. Forward the suspicious email to the Suspicious Email Reporting Service (SERS) at report@phishing.gov.uk. The National Cyber Security Centre (NCSC) will analyse the email and any websites it links to. If they find it's malicious, they can block the sender's address, work with hosting companies to remove dangerous websites, and warn others about similar scams. Your quick thinking and willingness to report this could prevent many others from becoming victims. Every report counts in the fight against fraud.",
+    "source_document": "Report a phishing attempt",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I clicked on a link in a suspicious text message. What should I do now?",
+    "input": "",
+    "output": "Don't panic - you can take action to protect yourself right now. First, don't enter any personal information on any website that opened. Close your browser immediately and run a virus scan on your device if possible. If you think you may have been compromised or lost money as a result, report it to Action Fraud online at actionfraud.police.uk or call 0300 123 2040. Also, forward the suspicious text message to 7726 (it's free) - your phone provider can investigate and block the sender if it's malicious. Monitor your bank accounts closely for any unusual activity and contact your bank immediately if you see anything suspicious. You acted quickly by seeking help, which is exactly the right thing to do.",
+    "source_document": "Report a phishing attempt",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Someone called claiming to be from my bank and I gave them my details. I'm worried I've been scammed.",
+    "input": "",
+    "output": "Your instincts are right to be concerned, and I'm glad you're taking action. Phone scammers often impersonate banks and other trusted organisations. Contact your bank immediately using the number on your bank card or statement - not any number the caller gave you. Tell them what happened so they can secure your account and check for any unauthorised transactions. If you've lost money or been hacked as a result, report it to Action Fraud online or call 0300 123 2040 (in England, Wales, Northern Ireland) or Police Scotland on 101 (in Scotland). For future reference, remember that your bank will never call asking for personal details, PINs, or passwords. You're not to blame for this - these scammers are very convincing, but you're taking the right steps now.",
+    "source_document": "Report a phishing attempt",
+    "source_url": "https://www.actionfraud.police.uk/report-phishing",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I was given fake money at a shop. What should I do with these counterfeit notes?",
+    "input": "",
+    "output": "I understand this is concerning, especially if you're worried about the money you've lost. Here's what you need to do: Keep the counterfeit notes safe - ideally in a plastic wallet or paper envelope to preserve any potential fingerprints. Don't try to spend them as this would be illegal. If the suspect who gave you the notes is still at the location or nearby, consider calling 999. Otherwise, report it to your local police force by calling 101, visiting your local police station, or reporting online depending on your area. Provide the counterfeit notes to police as evidence. If there's CCTV footage available, ask for a copy to give to police. Remember, Action Fraud doesn't handle counterfeit currency cases - this goes directly to your local police who will work with the National Crime Agency. This isn't your fault, and reporting helps prevent others from receiving fake money.",
+    "source_document": "Counterfeit currency: What to do if you receive counterfeit notes or coins and where to report",
+    "source_url": "https://www.actionfraud.police.uk/blog/counterfeit-currency-what-to-do-if-you-receive-counterfeit-notes-or-coins-and-where-to-report",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I tell if the money I have is real or fake?",
+    "input": "",
+    "output": "It's smart that you're checking your money - being vigilant helps protect you from counterfeit currency. You can verify your notes by checking the security features. For UK notes, visit the Bank of England website at bankofengland.co.uk/banknotes/counterfeit-banknotes/how-to-check-your-banknotes for detailed guidance on security features like watermarks, holograms, and special printing. For Scottish and Northern Ireland notes, check acbi.org.uk/banknotes.html. If you have coins, the Royal Mint website (royalmint.com) has information on genuine coin specifications. For foreign currency, the European Central Bank covers Euros (ecb.europa.eu) and the US Treasury covers dollars (uscurrency.gov). If after checking these resources you're still unsure about notes or coins you have, contact your local police for advice. Trust your instincts - if something feels wrong about the money, it's worth investigating further.",
+    "source_document": "Counterfeit currency: What to do if you receive counterfeit notes or coins and where to report",
+    "source_url": "https://www.actionfraud.police.uk/blog/counterfeit-currency-what-to-do-if-you-receive-counterfeit-notes-or-coins-and-where-to-report",
+    "chunk_number": 1,
+    "document_index": 3,
+    "generated_by": "gemini"
+  }
+]

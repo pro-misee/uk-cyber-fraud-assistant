@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "What is Get Safe Online?",
+    "input": "",
+    "output": "Get Safe Online is the UK's leading internet safety website. They provide free, unbiased, and easy-to-understand information on how to stay safe online. Their website is a valuable resource for learning how to protect yourself, your computer, and your mobile devices from fraud, identity theft, viruses, and other online threats. They cover a wide range of topics, including safe online shopping, gaming, and dating. In addition to their website, Get Safe Online also organizes national and community events to raise awareness about online safety. They are a public/private sector partnership and are supported by leading organizations in banking, retail, and internet security.",
+    "source_document": "About Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/about-us/",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I contact Get Safe Online?",
+    "input": "",
+    "output": "You can contact Get Safe Online through the contact form on their website. You can use this form to ask questions, get general advice, or express concerns about online safety. You can also use it to inquire about their organization, events, or partner scheme. However, they cannot help you with issues that are directly related to your business with other companies, such as banks or retailers. For media inquiries, you can email them at [email protected] When you contact them, you should not include any confidential information, such as usernames, passwords, or account numbers. You will also need to agree to their privacy policy, which you can read on their website.",
+    "source_document": "Contact us",
+    "source_url": "https://www.getsafeonline.org/contact-us/",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm not sure if a website is legitimate or a scam. How can I check?",
+    "input": "",
+    "output": "It's great that you're being cautious about the websites you visit. Get Safe Online has a tool that can help you determine whether a website is likely to be legitimate or a scam. You can find this tool on their website. You can also look for other signs of a scam, such as poor grammar and spelling, a lack of contact information, or pressure to make a quick decision. It's also a good idea to check for reviews of the website from other users. If you're still not sure, it's best to err on the side of caution and avoid using the website. By being vigilant, you can protect yourself from online scams and keep your personal and financial information safe.",
+    "source_document": "Home",
+    "source_url": "https://www.getsafeonline.org/",
+    "chunk_number": 5,
+    "document_index": 10,
+    "generated_by": "gemini"
+  }
+]

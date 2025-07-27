@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "How do I choose a strong password for my Wi-Fi?",
+    "input": "",
+    "output": "Choosing a strong password for your Wi-Fi is essential for protecting your home network. You should avoid using passwords that are easy to guess, such as your name, address, or date of birth. Instead, you should choose a password that is at least 12 characters long and includes a mix of uppercase and lowercase letters, numbers, and symbols. A good way to create a strong password is to use a passphrase, which is a sentence or phrase that is easy for you to remember but difficult for others to guess. You should also change your Wi-Fi password regularly, especially if you think it may have been compromised. By following these simple steps, you can create a strong password that will help to keep your home network secure.",
+    "source_document": "Protection",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/protection/",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm getting rid of my old computer. What should I do to protect my data?",
+    "input": "",
+    "output": "It's great that you're thinking about data protection when disposing of your old computer. Simply deleting your files is not enough to permanently erase them. To protect your personal information, you should use a data destruction program to securely wipe your hard drive. This will overwrite your data multiple times, making it virtually impossible to recover. You can also physically destroy the hard drive by drilling holes in it or hitting it with a hammer. If you're not comfortable doing this yourself, you can take your computer to a professional data destruction service. By taking these steps, you can ensure that your personal information does not fall into the wrong hands.",
+    "source_document": "Protection",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/protection/",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is a 419 scam?",
+    "input": "",
+    "output": "A 419 scam is a type of advance fee fraud. The name comes from the section of the Nigerian legal code that deals with this type of crime. In a 419 scam, you are typically contacted by someone who claims to need your help to transfer a large sum of money out of their country. They will promise you a share of the money in return for your help, but they will first ask you to pay a fee to cover the costs of the transfer. If you pay the fee, you will never see the money you were promised, and you will lose the money you paid. If you are contacted by someone who is asking for your help to transfer money, you should be very suspicious. You should never send money to someone you don't know, and you should never give out your personal or financial information.",
+    "source_document": "Glossary",
+    "source_url": "https://www.getsafeonline.org/glossary/",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is the difference between antivirus and antispyware software?",
+    "input": "",
+    "output": "Antivirus and antispyware software are both important tools for protecting your computer, but they are designed to do different things. Antivirus software is designed to detect and prevent known viruses from infecting your computer. Viruses are malicious programs that can damage your computer or steal your data. Antispyware software, on the other hand, is designed to detect and prevent spyware from being installed on your computer. Spyware is a type of software that can collect your personal information without your knowledge or consent. It is often bundled with other software, so you may not even know that it is being installed. To protect your computer from both viruses and spyware, it is important to have both antivirus and antispyware software installed and to keep them up to date.",
+    "source_document": "Glossary",
+    "source_url": "https://www.getsafeonline.org/glossary/",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  }
+]

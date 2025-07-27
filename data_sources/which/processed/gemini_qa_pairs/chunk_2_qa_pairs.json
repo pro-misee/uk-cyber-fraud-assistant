@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "I saw an advert on Facebook for an investment scheme called Quantum AI. Is it legitimate?",
+    "input": "",
+    "output": "You are right to be suspicious of the Quantum AI investment scheme. Which? has exposed this as a global scam that uses fake celebrity endorsements to lure people into dodgy investment schemes. The adverts often make unrealistic promises of high returns and use pressure tactics to get you to invest quickly. The websites associated with the scam are often newly created and may have vague contact details. You should not invest any money in this scheme, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims.",
+    "source_document": "What is the Quantum AI scam?",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I avoid investment scams?",
+    "input": "",
+    "output": "To avoid investment scams, you should be wary of any unsolicited offers, especially those that promise high returns with little or no risk. You should also be suspicious of any company that pressures you to make a quick decision, or that asks you to pay in an unusual way, such as with a cryptocurrency or a gift card. Before you invest any money, you should do your own research and check that the company is authorized by the Financial Conduct Authority (FCA). You can also get independent financial advice from a qualified professional. By being cautious and doing your research, you can protect yourself from investment scams and make informed decisions about your money.",
+    "source_document": "What is the Quantum AI scam?",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert for a diet pill called Nixol that claims to be endorsed by Dragons' Den. Is this a real product?",
+    "input": "",
+    "output": "You are right to be skeptical of the Nixol diet pill adverts. Which? has found that these adverts are part of a scam that falsely claims to be endorsed by Dragons' Den. The adverts often make unrealistic claims about weight loss and may use fake celebrity endorsements to lure you in. The websites associated with the scam are often newly created and may have vague contact details. You should not buy this product, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims of these fraudulent health claims.",
+    "source_document": "which linked page 5",
+    "source_url": "https://www.which.co.uk/news/article/watch-out-for-the-nixol-diet-pill-scam-aIVRx1q4BYP6",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  }
+]

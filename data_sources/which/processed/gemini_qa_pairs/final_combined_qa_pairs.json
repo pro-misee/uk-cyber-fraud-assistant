@@ -1,0 +1,192 @@
+[
+  {
+    "instruction": "My credit card was stolen and used to buy things. What should I do?",
+    "input": "",
+    "output": "It's understandable to be distressed when your card is stolen and used fraudulently. The most important thing is to act quickly. You should contact your bank or card provider immediately to report the theft and cancel the card. This will prevent any further fraudulent transactions. You have the right to get your money back for any unauthorized transactions, but you must report the issue as soon as you become aware of it. Your bank will investigate the fraud and, in most cases, will refund the money to your account. You can also use the Which? template letter to ask your bank for a refund for a disputed transaction.",
+    "source_document": "Card fraud Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/card-fraud",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I might have accidentally given my bank details to a scammer. What should I do now?",
+    "input": "",
+    "output": "It's a scary situation, but there are immediate steps you can take to protect yourself. First, contact your bank or financial institution right away. They can take action to secure your account, such as blocking your card or monitoring for suspicious activity. It's also a good idea to change your passwords for any online banking or other sensitive accounts. Be sure to keep a close eye on your bank statements for any transactions you don't recognize. Reporting the incident to Action Fraud will help them build a picture of the latest scams and potentially prevent others from becoming victims. Remember, acting quickly is key to minimizing any potential damage.",
+    "source_document": "Card fraud Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/card-fraud",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I came across a scam online. How can I report it?",
+    "input": "",
+    "output": "It's great that you want to report the scam and help protect others. You can use the Which? scam sharer tool to report the details of the scam. The tool will ask you a series of questions about the scam, such as how you came across it and what it was about. By sharing this information, you can help Which? to warn others about the scam and to campaign for better protection for consumers. You can also report the scam to Action Fraud, which is the UK's national reporting centre for fraud and cybercrime. By working together, we can make it harder for scammers to operate.",
+    "source_document": "Share scam details",
+    "source_url": "https://www.which.co.uk/tool/scam-sharer",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert on Facebook for an investment scheme called Quantum AI. Is it legitimate?",
+    "input": "",
+    "output": "You are right to be suspicious of the Quantum AI investment scheme. Which? has exposed this as a global scam that uses fake celebrity endorsements to lure people into dodgy investment schemes. The adverts often make unrealistic promises of high returns and use pressure tactics to get you to invest quickly. The websites associated with the scam are often newly created and may have vague contact details. You should not invest any money in this scheme, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims.",
+    "source_document": "What is the Quantum AI scam?",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I avoid investment scams?",
+    "input": "",
+    "output": "To avoid investment scams, you should be wary of any unsolicited offers, especially those that promise high returns with little or no risk. You should also be suspicious of any company that pressures you to make a quick decision, or that asks you to pay in an unusual way, such as with a cryptocurrency or a gift card. Before you invest any money, you should do your own research and check that the company is authorized by the Financial Conduct Authority (FCA). You can also get independent financial advice from a qualified professional. By being cautious and doing your research, you can protect yourself from investment scams and make informed decisions about your money.",
+    "source_document": "What is the Quantum AI scam?",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert for a diet pill called Nixol that claims to be endorsed by Dragons' Den. Is this a real product?",
+    "input": "",
+    "output": "You are right to be skeptical of the Nixol diet pill adverts. Which? has found that these adverts are part of a scam that falsely claims to be endorsed by Dragons' Den. The adverts often make unrealistic claims about weight loss and may use fake celebrity endorsements to lure you in. The websites associated with the scam are often newly created and may have vague contact details. You should not buy this product, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims of these fraudulent health claims.",
+    "source_document": "which linked page 5",
+    "source_url": "https://www.which.co.uk/news/article/watch-out-for-the-nixol-diet-pill-scam-aIVRx1q4BYP6",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email asking for my personal details. How can I tell if it's a scam?",
+    "input": "",
+    "output": "You're right to be cautious about unexpected emails asking for personal information. A key sign of a scam is being contacted out of the blue. Legitimate organizations will rarely ask for sensitive information without you expecting them to. You should also be wary of any email that creates a sense of urgency, or that asks you to pay in an unusual way, such as with cryptocurrency. If you are not 100% sure about the identity of the sender, do not click on any links or download any attachments. Instead, you should contact the company directly using the contact details on their official website. By being vigilant, you can protect yourself from phishing scams and keep your personal information safe.",
+    "source_document": "How to spot a scam - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about being scammed. What are some general tips to protect myself?",
+    "input": "",
+    "output": "It's great that you're being proactive about protecting yourself from scams. A good rule of thumb is to be suspicious of any unexpected contact, whether it's a phone call, email, or text message. You should never share your personal or financial information with anyone you don't know and trust. It's also a good idea to be wary of any offer that seems too good to be true, as it probably is. If you are ever unsure about something, you should talk to a friend or family member about it. Scammers often try to isolate their victims, so getting a second opinion can be very helpful. By following these simple tips, you can significantly reduce your risk of becoming a victim of a scam.",
+    "source_document": "How to spot a scam - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted by someone I think is a scammer. How can I protect myself?",
+    "input": "",
+    "output": "It can be difficult to tell if you are being scammed, but there are some things you can do to protect yourself. First, you should never give out your personal or financial information to anyone you don't know and trust. You should also be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. If you are not sure about something, you should talk to a friend or family member about it. Scammers often try to isolate their victims, so getting a second opinion can be very helpful. You should also be wary of anyone who asks you to pay in an unusual way, such as with a gift card or a wire transfer. By being cautious and following these tips, you can help to protect yourself from scams.",
+    "source_document": "Spot and protect yourself from scamsKeep up to date with the latest scams to watch out for and tips to keep you safe.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-spot-a-scam-alFiz5h8mnJ9",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've lost money to a scam. Who should I report it to?",
+    "input": "",
+    "output": "If you've lost money to a scam, it's important to report it to your bank or payment provider as soon as possible. They should investigate the fraud and try to recover your money. You should also report the scam to Action Fraud, which is the UK's national reporting centre for fraud and cybercrime. You can report it to them online or by calling 0300 123 2040. If you live in Scotland, you should report the scam to the police by calling 101. By reporting the scam, you can help to prevent others from becoming victims.",
+    "source_document": "Report scams to warn othersGuidance on how to report different types of scams and what to do straight away.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a scam email. What should I do with it?",
+    "input": "",
+    "output": "If you receive a scam email, you should forward it to report@phishing.gov.uk. The National Cyber Security Centre (NCSC) will investigate the scam and may be able to prevent other people from being targeted. You can also report the scam email to your email provider. For example, on Gmail, you can click 'Report spam'. By reporting scam emails, you can help to make the internet a safer place for everyone.",
+    "source_document": "Report scams to warn othersGuidance on how to report different types of scams and what to do straight away.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been a victim of a bank transfer scam. What should I do?",
+    "input": "",
+    "output": "If you have been a victim of a bank transfer scam, you should contact your bank immediately. They will investigate the scam and try to recover your money. You should also report the scam to Action Fraud. It is important to act quickly, as this will increase your chances of getting your money back. You can also use the Which? template letter to complain to your bank about the scam. By taking these steps, you can help to protect yourself and others from becoming victims of bank transfer scams.",
+    "source_document": "Reporting scams Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/reporting-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think my identity has been stolen. What should I do?",
+    "input": "",
+    "output": "If you think your identity has been stolen, you should contact your bank or credit card company and the police as soon as possible. They will be able to help you to secure your accounts and prevent any further fraudulent activity. You should also check your credit report to see if there are any accounts or loans that you do not recognize. It is important to act quickly to minimize the damage that can be caused by identity theft. By taking these steps, you can help to protect yourself and your finances.",
+    "source_document": "Reporting scams Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/reporting-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I paid for something with my debit card and it turned out to be a scam. Can I get my money back?",
+    "input": "",
+    "output": "If you used your debit card to pay for something that turned out to be a scam, you may be able to get your money back through the chargeback scheme. Chargeback is not a legal requirement, but it is a scheme that most banks subscribe to. You should contact your bank as soon as possible to report the scam and ask them to start the chargeback process. There are no guarantees that you will get your money back, but it is definitely worth trying. You can use the Which? template letter to help you with your claim.",
+    "source_document": "Get your money back from a scamAdvice for what your next step should be to help you get your money back.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I was tricked into transferring money to a scammer's bank account. What should I do?",
+    "input": "",
+    "output": "This is known as an authorised push payment (APP) scam, and it can be very distressing. The first thing you should do is contact your bank immediately. They can try to recover the funds from the scammer's account. You should also report the scam to Action Fraud. A new reimbursement requirement for APP scams came into force on 7 October 2024, which means that you are more likely to get your money back if you are a victim of this type of scam. However, it is still important to act quickly and to report the scam to your bank and to Action Fraud.",
+    "source_document": "Get your money back from a scamAdvice for what your next step should be to help you get your money back.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-get-your-money-back-after-a-scam-amyJW6f0D2TJ",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert for a diet pill called Nixol that claims to be endorsed by Dragons' Den. Is this a real product?",
+    "input": "",
+    "output": "You are right to be skeptical of the Nixol diet pill adverts. Which? has found that these adverts are part of a scam that falsely claims to be endorsed by Dragons' Den. The adverts often make unrealistic claims about weight loss and may use fake celebrity endorsements to lure you in. The websites associated with the scam are often newly created and may have vague contact details. You should not buy this product, and you should report any adverts you see to the social media platform and to Action Fraud. By being aware of this scam, you can protect yourself and others from becoming victims of these fraudulent health claims.",
+    "source_document": "Watch out for the Nixol diet pill scam",
+    "source_url": "https://www.which.co.uk/news/article/watch-out-for-the-nixol-diet-pill-scam-aIVRx1q4BYP6",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been scammed and it's affecting my mental health. Where can I get support?",
+    "input": "",
+    "output": "Being scammed can be a very distressing experience, and it's important to remember that it's not your fault. If you're struggling with your mental health after a scam, there are organizations that can provide support. Mind has a confidential information and support line called Mind Infoline, available on 0300 123 3393 (lines open 9am - 6pm, Monday - Friday). Victim Support also offers a free helpline where you can speak to someone confidentially, available on 0808 16 89 111 (lines open 24/7). Reaching out to these services can provide you with a safe space to talk about your experience and get the help you need.",
+    "source_document": "Scams - Which? Consumer Rights - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I help Which? to protect others from scams?",
+    "input": "",
+    "output": "You can help Which? to protect others from scams by sharing the details of any scam you have encountered. Which? has a 'Share scam details' tool on their website where you can provide information about your experience. This information helps them to inform their scams content, research, and policy work, ultimately contributing to a clearer picture of how scams work and who is behind them. By sharing your experience, you are helping to build a collective knowledge base that can be used to warn and protect other consumers from falling victim to similar fraudulent schemes.",
+    "source_document": "Scams - Which? Consumer Rights - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert on social media for an investment scheme called Quantum AI. Is it legitimate?",
+    "input": "",
+    "output": "You are right to be suspicious of the Quantum AI investment scheme. Which? has exposed this as a global scam that uses AI to impersonate celebrities and organizations, including the BBC, Elon Musk, and David Beckham, to promote a fraudulent investment scheme. The scam has reappeared recently with adverts circulating on Facebook and Instagram. These adverts often promise high returns, use fake testimonials, and pressure you to invest quickly. You should not invest any money in this scheme. Instead, you should report any such adverts to the social media platform where you saw them and to Action Fraud. By being aware of these tactics, you can protect yourself from falling victim to such sophisticated scams.",
+    "source_document": "which linked page 7",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  }
+]

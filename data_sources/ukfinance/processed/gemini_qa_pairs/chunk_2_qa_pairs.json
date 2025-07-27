@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "I received a call from someone claiming to be from UK Finance, offering me a loan for an upfront fee. Is this legitimate?",
+    "input": "",
+    "output": "No, this is a scam. UK Finance does not offer any financial products, and anyone claiming to do so on their behalf is fraudulent. You should never pay an upfront fee for a loan, as this is a common tactic used by scammers. If you have been contacted by someone claiming to be from UK Finance, you should not give them any personal or financial information. You should end the call immediately and report the incident to your bank and to Action Fraud. By being aware of this scam, you can protect yourself from becoming a victim.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm a student and I'm worried about phishing scams. What is being done to combat this?",
+    "input": "",
+    "output": "It's great that you're being cautious about phishing scams. Law enforcement agencies are actively investigating and taking action against criminals who create and distribute phishing kits. For example, a student was recently arrested for distributing phishing kits that were used to steal millions of pounds. This shows that the authorities are taking this type of crime very seriously. In addition to law enforcement action, it's important for you to be able to recognize and avoid phishing scams. You should be wary of any unsolicited emails or messages that ask for your personal or financial information. You should also be careful about clicking on links or downloading attachments from unknown sources. By being vigilant, you can protect yourself from phishing scams.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "My company is worried about the new 'failure to prevent fraud' offence. What can we do to prepare?",
+    "input": "",
+    "output": "The new 'failure to prevent fraud' offence is a significant development, and it's important that your company is prepared. UK Finance is running workshops to help firms get ready for the September 2025 deadline. These workshops will provide you with a robust risk assessment, tailored procedures, and key risk factors for the future. They will also cover the mechanics of the offence, the specific risk factors for the financial services sector, and the likely approach to enforcement action. By attending one of these workshops, you can ensure that your firm is ready to meet the new requirements and avoid liability.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 2,
+    "document_index": 4,
+    "generated_by": "gemini"
+  }
+]

@@ -1,0 +1,103 @@
+
+[
+  {
+    "instruction": "I'm a woman working in finance. What is UK Finance doing to promote gender diversity?",
+    "input": "",
+    "output": "UK Finance is a signatory to the HM Treasury Women in Finance Charter, which is a commitment to build a more balanced and fair financial services industry. As part of this commitment, UK Finance has set internal targets for gender diversity in senior management and publishes its progress annually. They have already met their initial target of 40% female representation in senior management and are now aiming for gender parity by the end of 2023. This commitment to diversity and inclusion is supported by gender equality across the organization in middle management and more junior roles. By taking these steps, UK Finance is working to create a more inclusive and productive working environment for everyone in the financial services industry.",
+    "source_document": "ukfinance linked page 3",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/women-finance-charter",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is UK Finance doing to combat fraud?",
+    "input": "",
+    "output": "UK Finance is taking a leading role in the fight against fraud. They have launched an industry-wide strategy to tackle and prevent fraud and scams, including Authorised Push Payment (APP) fraud. This strategy involves collaboration with a wide range of stakeholders, including technology companies, regulators, and government, to stop fraud at its source. A key part of this strategy is to improve information sharing within the financial services industry and with other stakeholders. This includes real-time data sharing in the payment journey and technical developments to help payment service providers manage risk more effectively. By working together with other sectors, UK Finance is aiming to close down vulnerabilities across the wider ecosystem and protect consumers from fraud.",
+    "source_document": "Fraud & scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/economic-crime/fraud-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is Cyber Essentials and why is it important?",
+    "input": "",
+    "output": "Cyber Essentials is a government-backed scheme that helps organizations protect themselves from common cyber attacks. It is important because the majority of cyber attacks are basic in nature and can be prevented by implementing basic security controls. The Cyber Essentials scheme provides advice on how to do this, and it allows organizations to choose the level of commitment they want to make. By being part of the Cyber Essentials scheme, organizations can demonstrate their commitment to cyber security and give their customers peace of mind. UK Finance is proud to hold the advanced Cyber Essentials Plus certificate, which shows that their IT estate has been independently reviewed and verified.",
+    "source_document": "ukfinance linked page 2",
+    "source_url": "https://www.ukfinance.org.uk/about-us/our-commitments/cyber-essentials",
+    "chunk_number": 1,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a call from someone claiming to be from UK Finance, offering me a loan for an upfront fee. Is this legitimate?",
+    "input": "",
+    "output": "No, this is a scam. UK Finance does not offer any financial products, and anyone claiming to do so on their behalf is fraudulent. You should never pay an upfront fee for a loan, as this is a common tactic used by scammers. If you have been contacted by someone claiming to be from UK Finance, you should not give them any personal or financial information. You should end the call immediately and report the incident to your bank and to Action Fraud. By being aware of this scam, you can protect yourself from becoming a victim.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm a student and I'm worried about phishing scams. What is being done to combat this?",
+    "input": "",
+    "output": "It's great that you're being cautious about phishing scams. Law enforcement agencies are actively investigating and taking action against criminals who create and distribute phishing kits. For example, a student was recently arrested for distributing phishing kits that were used to steal millions of pounds. This shows that the authorities are taking this type of crime very seriously. In addition to law enforcement action, it's important for you to be able to recognize and avoid phishing scams. You should be wary of any unsolicited emails or messages that ask for your personal or financial information. You should also be careful about clicking on links or downloading attachments from unknown sources. By being vigilant, you can protect yourself from phishing scams.",
+    "source_document": "Homepage | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "My company is worried about the new 'failure to prevent fraud' offence. What can we do to prepare?",
+    "input": "",
+    "output": "The new 'failure to prevent fraud' offence is a significant development, and it's important that your company is prepared. UK Finance is running workshops to help firms get ready for the September 2025 deadline. These workshops will provide you with a robust risk assessment, tailored procedures, and key risk factors for the future. They will also cover the mechanics of the offence, the specific risk factors for the financial services sector, and the likely approach to enforcement action. By attending one of these workshops, you can ensure that your firm is ready to meet the new requirements and avoid liability.",
+    "source_document": "Register\n            \nRead more",
+    "source_url": "https://www.ukfinance.org.uk/events-training/failure-prevent-fraud-0",
+    "chunk_number": 2,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm a vulnerable customer. What is UK Finance doing to protect me?",
+    "input": "",
+    "output": "UK Finance and its members are committed to protecting vulnerable customers. They are working to ensure that you can access and use financial services and products, and that you are treated with empathy and respect. They are also helping their members to implement the FCA's Finalised Vulnerability Guidance, which sets out how firms should support vulnerable customers. In addition, UK Finance has developed a Financial Abuse Code, which many of its members have signed up to. This code is designed to help financial services providers to support customers who are victims of financial abuse. By taking these steps, UK Finance is working to ensure that you receive the support you need and that you are treated fairly.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm concerned about economic abuse. What is being done to address this issue?",
+    "input": "",
+    "output": "Economic abuse is a serious issue, and UK Finance is working to address it. The Domestic Abuse Act 2021 criminalized economic abuse for the first time, and the government has published a Tackling Domestic Abuse Plan. UK Finance's Financial Abuse Code is a key part of this plan, and it is designed to help financial services providers to support customers who are victims of financial abuse. The code sets out how firms should respond to disclosures of economic abuse, and it provides guidance on how to identify and support victims. By working with the government and its members, UK Finance is helping to ensure that victims of economic abuse receive the support they need.",
+    "source_document": "Consumer protection | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/our-expertise/personal-banking/consumer-protection",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been scammed. What should I do?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop and think before you part with any money or information. It's okay to reject, refuse, or ignore any requests that you're not sure about. You should then contact your bank immediately to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to Action Fraud. If you are in Scotland, you should report it to Police Scotland. By reporting the scam, you can help to protect others from becoming victims.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 3,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from scams?",
+    "input": "",
+    "output": "To protect yourself from scams, you should follow the advice of the Take Five to Stop Fraud campaign. First, you should always stop and think before you part with your money or information. It's okay to challenge any requests that you're not sure about, and you should never feel rushed or panicked into making a decision. You should also be wary of anyone who contacts you unexpectedly, and you should never give out your personal or financial information unless you are sure who you are dealing with. If you think you have been scammed, you should contact your bank immediately and report it to Action Fraud. By following these simple steps, you can significantly reduce your risk of becoming a victim of fraud.",
+    "source_document": "Fraud and Scams | UK Finance",
+    "source_url": "https://www.ukfinance.org.uk/fraud-and-scams",
+    "chunk_number": 3,
+    "document_index": 6,
+    "generated_by": "gemini"
+  }
+]

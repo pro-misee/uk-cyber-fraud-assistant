@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I need help with my finances. Where can I get reliable information?",
+    "input": "",
+    "output": "It's great that you're seeking out reliable financial information. The Financial Conduct Authority (FCA) is the UK's financial regulator, and their website is a great place to start. They offer a range of resources to help you with your finances, including information on bank accounts, debts, investments, and pensions. They also work with MoneyHelper, a government-backed service that provides free, impartial help on a wide range of financial topics. You can use the MoneyHelper website to find information and guidance on everything from budgeting and saving to borrowing and mortgages. By using these resources, you can be confident that you're getting accurate and trustworthy information to help you make informed financial decisions.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if a financial firm is legitimate?",
+    "input": "",
+    "output": "It's very important to check that a financial firm is legitimate before you deal with them. The FCA has a Financial Services Register that you can use to check if a firm is authorized and has the right permissions to offer the services they are providing. You can search the register for both firms and individuals. If a firm is not on the register, it is not authorized by the FCA and you should not deal with them. You should also be wary of firms that contact you out of the blue, or that pressure you to make a quick decision. By using the Financial Services Register and being cautious, you can protect yourself from scams and unauthorized firms.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been offered a way to get cash from my pension before I'm 55. Is this a good idea?",
+    "input": "",
+    "output": "You should be extremely cautious about any offer to release cash from your pension before you're 55. It is almost certainly a scam. Generally, you can only access your pension when you are 55 or older, except in very specific circumstances, such as ill health. These scams, often called 'pension liberation' or 'pension loans', can have very serious consequences. You could lose a significant portion of your pension to fees, and you could also face a large tax bill from HMRC. If you are worried about money and are considering accessing your pension, you should seek free, impartial advice from a service like MoneyHelper. They can help you understand your options and avoid falling victim to a pension scam.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a pension scam?",
+    "input": "",
+    "output": "Pension scams can be very convincing, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly about your pension, or who uses high-pressure sales tactics to get you to make a quick decision. Scammers often promise guaranteed high returns on your investment, or they may offer unusual or unregulated investments. They may also use complicated structures that make it difficult to understand where your money is going. If you are unsure about an offer, you should check the FCA's ScamSmart website and their Financial Services Register to see if the firm is authorized. Remember, if an offer seems too good to be true, it probably is.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]

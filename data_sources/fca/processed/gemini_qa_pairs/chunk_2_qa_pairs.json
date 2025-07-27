@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I think I've been scammed. Who should I report it to?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to report it as soon as possible. If the scam involves a financial service that the FCA regulates, you should report it to them. This includes scams related to investments, pensions, loans, and insurance. You can report a scam to the FCA through their website. If you have given the scammers any of your personal information or made a payment, you should also contact your bank immediately. For other types of scams, such as driving licence or tax scams, you should contact Action Fraud or Police Scotland. By reporting the scam, you can help to protect others from becoming victims.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I spot a fake email or message from the FCA?",
+    "input": "",
+    "output": "It's important to be able to spot fake communications from the FCA, as scammers may try to impersonate them. The FCA will never ask you to transfer money to them, and they will never ask for your bank account PINs or passwords. If you receive an email, text message, or phone call that you are not sure about, you should not reply or click on any links. Instead, you should contact the FCA directly using the contact details on their website. You can also check the FCA's website for information on the latest scams and how to spot fake communications. By being vigilant, you can protect yourself from scammers who may be pretending to be from the FCA.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted unexpectedly about an investment opportunity. What should I do?",
+    "input": "",
+    "output": "You should be very cautious if you are contacted unexpectedly about an investment opportunity. This is a common tactic used by scammers. You should never feel pressured to make a quick decision, and you should be wary of any offer that sounds too good to be true. Before you invest any money, you should check the FCA's Financial Services Register to make sure that the firm is authorized. You can also use the FCA's ScamSmart website to get more information about how to avoid investment scams. If you are unsure about an investment, you should seek independent financial advice from a qualified professional. By taking your time and doing your research, you can protect yourself from investment scams.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been scammed?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop all contact with the scammers and do not send them any more money. You should then contact your bank to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to the FCA and Action Fraud. By reporting the scam, you can help to protect others from becoming victims. It's also a good idea to talk to someone you trust, such as a friend or family member. Being scammed can be a very stressful experience, and it's important to get support.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  }
+]

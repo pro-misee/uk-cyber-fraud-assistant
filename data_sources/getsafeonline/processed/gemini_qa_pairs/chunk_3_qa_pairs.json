@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I saw a video about a new investment opportunity that promises high returns. How can I tell if it's a scam?",
+    "input": "",
+    "output": "It's smart to be skeptical of investment opportunities that seem too good to be true. Scammers often use videos to promote their fraudulent schemes, so it's important to be able to spot the signs of a scam. Be wary of any investment that promises guaranteed high returns with little or no risk. You should also be suspicious of anyone who pressures you to make a quick decision or asks you to pay for the investment in an unusual way, such as with a gift card or wire transfer. Before you invest any money, you should do your own research and check if the company is registered with the appropriate financial authorities. You can also seek advice from a qualified financial advisor. Remember, if something sounds too good to be true, it probably is.",
+    "source_document": "Videos",
+    "source_url": "https://www.getsafeonline.org/resources/videos/",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email that looks like it's from my bank, asking me to click a link to verify my account details. Is this legitimate?",
+    "input": "",
+    "output": "You're right to be suspicious of that email. This is a classic example of a phishing scam, a common tactic used by criminals to steal personal and financial information. Your bank will never ask you to click a link in an email to verify your account details. If you receive an email like this, do not click on any links or download any attachments. Instead, you should delete the email and report it to your bank. You can also report it to Action Fraud. To be safe, you should always log in to your online banking by typing the bank's website address directly into your browser, rather than clicking on a link in an email. By being vigilant, you can protect yourself from phishing scams and keep your money safe.",
+    "source_document": "Videos",
+    "source_url": "https://www.getsafeonline.org/resources/videos/",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm still using Windows 7. Is that a problem?",
+    "input": "",
+    "output": "Yes, it is a significant security risk to continue using Windows 7. Microsoft stopped providing support for Windows 7 on January 14, 2020. This means that your computer is no longer receiving security updates, bug fixes, or other important patches. As a result, your computer is much more vulnerable to malware and other online threats. To protect yourself, it is strongly recommended that you upgrade to a newer, supported version of Windows as soon as possible. If you're not sure how to do this, you can ask a trusted friend or family member for help, or you can contact a reputable computer technician. By upgrading your operating system, you can ensure that you have the latest security features and that your computer is protected from known vulnerabilities.",
+    "source_document": "Protecting Your Computer",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect my computer from physical theft?",
+    "input": "",
+    "output": "Physical security is just as important as online security when it comes to protecting your computer and your data. To prevent theft, you should never leave your computer unattended in a public place. When you're at home, you should keep your computer in a secure location and consider using a security cable to lock it to a piece of furniture. It's also a good idea to keep a record of your computer's serial number and to mark it with a UV pen to make it easier to identify if it's stolen. In addition to theft, you should also protect your computer from other physical threats, such as fire and flood. You can do this by keeping your computer in a safe place and by backing up your data regularly. By taking these precautions, you can help to protect your computer and your valuable information.",
+    "source_document": "Protecting Your Computer",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  }
+]

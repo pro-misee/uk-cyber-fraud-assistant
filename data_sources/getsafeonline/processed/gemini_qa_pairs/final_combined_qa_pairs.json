@@ -1,0 +1,193 @@
+
+[
+  {
+    "instruction": "I think I've been scammed after paying for a loan arrangement fee upfront. What should I do?",
+    "input": "",
+    "output": "It sounds like you may have been a victim of loan fee fraud, which is a type of advance fee fraud. It's understandable to feel concerned, but there are steps you can take. First, you should know that legitimate lenders will not ask for an upfront fee to secure a loan. If you've already paid, it's important to cease any further contact with the company and do not provide any more money. You should report the incident to Action Fraud, the UK's national reporting centre for fraud and cybercrime. You can also contact the Financial Conduct Authority (FCA) to check if the company is authorized and to report the scam. Remember to keep all records of your communications with the company, as this will be helpful for your report.",
+    "source_document": "Protecting Yourself - Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been receiving a lot of information about COVID-19 vaccinations. How can I tell what's real and what's fake?",
+    "input": "",
+    "output": "It's great that you're being cautious about the information you receive regarding COVID-19 vaccinations. There is a lot of misinformation, disinformation, and fake news circulating, so it's important to be able to distinguish between reliable and unreliable sources. You should always get your information from trusted sources such as the NHS, the World Health Organization (WHO), and other official health bodies. Be wary of information shared on social media, and always check the source before believing or sharing it. Remember that vaccinations have been proven to be safe and effective in preventing serious illness from COVID-19. If you have any doubts or questions, it's always best to speak to a healthcare professional.",
+    "source_document": "Protecting Yourself - Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from SIM swap fraud?",
+    "input": "",
+    "output": "SIM swap fraud is a serious threat, but there are ways to protect yourself. Be wary of unexpected calls or messages from your mobile provider, and never give out personal or financial information in response to an unsolicited request. You should also be cautious about sharing personal information on social media, as this can be used by fraudsters to impersonate you. It's a good idea to use strong, unique passwords for your online accounts and to enable two-factor authentication wherever possible. If you lose signal on your phone unexpectedly, contact your mobile provider immediately to check if your SIM has been swapped. By being vigilant and taking these precautions, you can significantly reduce your risk of becoming a victim of SIM swap fraud.",
+    "source_document": "Blog",
+    "source_url": "https://www.getsafeonline.org/personal/blog/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about romance fraud. How can I stay safe when dating online?",
+    "input": "",
+    "output": "It's important to be cautious when dating online to protect yourself from romance fraud. One way to do this is to use secure messaging apps that can help to verify the identity of the person you're talking to. Be wary of anyone who asks for money, regardless of the reason they give. You should also be cautious about sharing personal information, such as your address or financial details. If you're unsure about someone, you can do a reverse image search to see if their photos have been used elsewhere. Trust your instincts, and if something feels wrong, it probably is. Remember that genuine relationships are built on trust and mutual respect, not on financial transactions.",
+    "source_document": "Blog",
+    "source_url": "https://www.getsafeonline.org/personal/blog/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is a firewall and why do I need one?",
+    "input": "",
+    "output": "A firewall is a crucial security tool that acts as a barrier between your computer and the internet. Think of it as a digital security guard that controls what traffic is allowed to enter and leave your computer. You need a firewall to protect yourself from various online threats, such as hackers trying to gain unauthorized access to your computer, and worms, which are a type of virus that can spread from computer to computer over the internet. It's important to understand that a firewall is your first line of defense, but it's not a complete security solution on its own. You should always use it in conjunction with other security measures, such as antivirus software and being cautious about what you download and who you give access to your computer.",
+    "source_document": "Firewalls",
+    "source_url": "https://www.getsafeonline.org/personal/articles/firewalls/",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the limitations of a firewall?",
+    "input": "",
+    "output": "While a firewall is an essential security tool, it's important to be aware of its limitations. A firewall cannot protect you if you grant permission for other computers to connect to yours, or if it's switched off or misconfigured. It also offers limited or no protection against most viruses, spam, spyware, or any kind of online fraud. Furthermore, a firewall can be bypassed if you or a virus creates a backdoor, or if someone has physical access to your computer. It's also important to remember that a firewall cannot protect you from data introduced to your computer through other means, such as USB drives or CDs. Therefore, while a firewall is a vital part of your security setup, it should be part of a comprehensive security strategy that includes antivirus software, regular updates, and cautious online behavior.",
+    "source_document": "Firewalls",
+    "source_url": "https://www.getsafeonline.org/personal/articles/firewalls/",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I heard about a data breach at Coop. What should I do?",
+    "input": "",
+    "output": "It's wise to be proactive when you hear about a data breach. If you're a Coop member, it's recommended that you take immediate precautions. You should change the password for your Coop account and any other online accounts that use the same password. Be on the lookout for phishing emails or messages that may try to trick you into revealing personal information. It's also a good idea to monitor your bank accounts and credit reports for any suspicious activity. If you're concerned, you can contact Coop directly to find out more about the breach and what steps they are taking to protect their customers. Remember to always be cautious about unsolicited communications and never give out your personal or financial information unless you are sure who you are dealing with.",
+    "source_document": "News",
+    "source_url": "https://www.getsafeonline.org/personal/news/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm a Lady Gaga fan and I want to buy tickets for her tour. How can I avoid scams?",
+    "input": "",
+    "output": "It's great that you're being cautious about buying tickets online. Scammers often target fans of popular artists like Lady Gaga. To avoid scams, you should only buy tickets from official and reputable vendors. Be very wary of buying tickets through social media, as this is a common tactic used by scammers. It's also a good idea to use a credit card to pay for your tickets, as this can offer you more protection if something goes wrong. Before you buy, take some time to research the seller and check for reviews from other customers. If a deal seems too good to be true, it probably is. By being careful and using common sense, you can increase your chances of getting genuine tickets and avoiding disappointment.",
+    "source_document": "News",
+    "source_url": "https://www.getsafeonline.org/personal/news/",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw a video about a new investment opportunity that promises high returns. How can I tell if it's a scam?",
+    "input": "",
+    "output": "It's smart to be skeptical of investment opportunities that seem too good to be true. Scammers often use videos to promote their fraudulent schemes, so it's important to be able to spot the signs of a scam. Be wary of any investment that promises guaranteed high returns with little or no risk. You should also be suspicious of anyone who pressures you to make a quick decision or asks you to pay for the investment in an unusual way, such as with a gift card or wire transfer. Before you invest any money, you should do your own research and check if the company is registered with the appropriate financial authorities. You can also seek advice from a qualified financial advisor. Remember, if something sounds too good to be true, it probably is.",
+    "source_document": "Videos",
+    "source_url": "https://www.getsafeonline.org/resources/videos/",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received an email that looks like it's from my bank, asking me to click a link to verify my account details. Is this legitimate?",
+    "input": "",
+    "output": "You're right to be suspicious of that email. This is a classic example of a phishing scam, a common tactic used by criminals to steal personal and financial information. Your bank will never ask you to click a link in an email to verify your account details. If you receive an email like this, do not click on any links or download any attachments. Instead, you should delete the email and report it to your bank. You can also report it to Action Fraud. To be safe, you should always log in to your online banking by typing the bank's website address directly into your browser, rather than clicking on a link in an email. By being vigilant, you can protect yourself from phishing scams and keep your money safe.",
+    "source_document": "Videos",
+    "source_url": "https://www.getsafeonline.org/resources/videos/",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm still using Windows 7. Is that a problem?",
+    "input": "",
+    "output": "Yes, it is a significant security risk to continue using Windows 7. Microsoft stopped providing support for Windows 7 on January 14, 2020. This means that your computer is no longer receiving security updates, bug fixes, or other important patches. As a result, your computer is much more vulnerable to malware and other online threats. To protect yourself, it is strongly recommended that you upgrade to a newer, supported version of Windows as soon as possible. If you're not sure how to do this, you can ask a trusted friend or family member for help, or you can contact a reputable computer technician. By upgrading your operating system, you can ensure that you have the latest security features and that your computer is protected from known vulnerabilities.",
+    "source_document": "Protecting Your Computer",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect my computer from physical theft?",
+    "input": "",
+    "output": "Physical security is just as important as online security when it comes to protecting your computer and your data. To prevent theft, you should never leave your computer unattended in a public place. When you're at home, you should keep your computer in a secure location and consider using a security cable to lock it to a piece of furniture. It's also a good idea to keep a record of your computer's serial number and to mark it with a UV pen to make it easier to identify if it's stolen. In addition to theft, you should also protect your computer from other physical threats, such as fire and flood. You can do this by keeping your computer in a safe place and by backing up your data regularly. By taking these precautions, you can help to protect your computer and your valuable information.",
+    "source_document": "Protecting Your Computer",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How do I choose a strong password for my Wi-Fi?",
+    "input": "",
+    "output": "Choosing a strong password for your Wi-Fi is essential for protecting your home network. You should avoid using passwords that are easy to guess, such as your name, address, or date of birth. Instead, you should choose a password that is at least 12 characters long and includes a mix of uppercase and lowercase letters, numbers, and symbols. A good way to create a strong password is to use a passphrase, which is a sentence or phrase that is easy for you to remember but difficult for others to guess. You should also change your Wi-Fi password regularly, especially if you think it may have been compromised. By following these simple steps, you can create a strong password that will help to keep your home network secure.",
+    "source_document": "Protection",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/protection/",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm getting rid of my old computer. What should I do to protect my data?",
+    "input": "",
+    "output": "It's great that you're thinking about data protection when disposing of your old computer. Simply deleting your files is not enough to permanently erase them. To protect your personal information, you should use a data destruction program to securely wipe your hard drive. This will overwrite your data multiple times, making it virtually impossible to recover. You can also physically destroy the hard drive by drilling holes in it or hitting it with a hammer. If you're not comfortable doing this yourself, you can take your computer to a professional data destruction service. By taking these steps, you can ensure that your personal information does not fall into the wrong hands.",
+    "source_document": "Protection",
+    "source_url": "https://www.getsafeonline.org/personal/article-category/protecting-your-computer/protection/",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is a 419 scam?",
+    "input": "",
+    "output": "A 419 scam is a type of advance fee fraud. The name comes from the section of the Nigerian legal code that deals with this type of crime. In a 419 scam, you are typically contacted by someone who claims to need your help to transfer a large sum of money out of their country. They will promise you a share of the money in return for your help, but they will first ask you to pay a fee to cover the costs of the transfer. If you pay the fee, you will never see the money you were promised, and you will lose the money you paid. If you are contacted by someone who is asking for your help to transfer money, you should be very suspicious. You should never send money to someone you don't know, and you should never give out your personal or financial information.",
+    "source_document": "Glossary",
+    "source_url": "https://www.getsafeonline.org/glossary/",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is the difference between antivirus and antispyware software?",
+    "input": "",
+    "output": "Antivirus and antispyware software are both important tools for protecting your computer, but they are designed to do different things. Antivirus software is designed to detect and prevent known viruses from infecting your computer. Viruses are malicious programs that can damage your computer or steal your data. Antispyware software, on the other hand, is designed to detect and prevent spyware from being installed on your computer. Spyware is a type of software that can collect your personal information without your knowledge or consent. It is often bundled with other software, so you may not even know that it is being installed. To protect your computer from both viruses and spyware, it is important to have both antivirus and antispyware software installed and to keep them up to date.",
+    "source_document": "Glossary",
+    "source_url": "https://www.getsafeonline.org/glossary/",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What is Get Safe Online?",
+    "input": "",
+    "output": "Get Safe Online is the UK's leading internet safety website. They provide free, unbiased, and easy-to-understand information on how to stay safe online. Their website is a valuable resource for learning how to protect yourself, your computer, and your mobile devices from fraud, identity theft, viruses, and other online threats. They cover a wide range of topics, including safe online shopping, gaming, and dating. In addition to their website, Get Safe Online also organizes national and community events to raise awareness about online safety. They are a public/private sector partnership and are supported by leading organizations in banking, retail, and internet security.",
+    "source_document": "About Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/about-us/",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I contact Get Safe Online?",
+    "input": "",
+    "output": "You can contact Get Safe Online through the contact form on their website. You can use this form to ask questions, get general advice, or express concerns about online safety. You can also use it to inquire about their organization, events, or partner scheme. However, they cannot help you with issues that are directly related to your business with other companies, such as banks or retailers. For media inquiries, you can email them at [email protected] When you contact them, you should not include any confidential information, such as usernames, passwords, or account numbers. You will also need to agree to their privacy policy, which you can read on their website.",
+    "source_document": "Contact us",
+    "source_url": "https://www.getsafeonline.org/contact-us/",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm not sure if a website is legitimate or a scam. How can I check?",
+    "input": "",
+    "output": "It's great that you're being cautious about the websites you visit. Get Safe Online has a tool that can help you determine whether a website is likely to be legitimate or a scam. You can find this tool on their website. You can also look for other signs of a scam, such as poor grammar and spelling, a lack of contact information, or pressure to make a quick decision. It's also a good idea to check for reviews of the website from other users. If you're still not sure, it's best to err on the side of caution and avoid using the website. By being vigilant, you can protect yourself from online scams and keep your personal and financial information safe.",
+    "source_document": "Home",
+    "source_url": "https://www.getsafeonline.org/",
+    "chunk_number": 5,
+    "document_index": 10,
+    "generated_by": "gemini"
+  }
+]

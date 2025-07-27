@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I think I've been scammed after paying for a loan arrangement fee upfront. What should I do?",
+    "input": "",
+    "output": "It sounds like you may have been a victim of loan fee fraud, which is a type of advance fee fraud. It's understandable to feel concerned, but there are steps you can take. First, you should know that legitimate lenders will not ask for an upfront fee to secure a loan. If you've already paid, it's important to cease any further contact with the company and do not provide any more money. You should report the incident to Action Fraud, the UK's national reporting centre for fraud and cybercrime. You can also contact the Financial Conduct Authority (FCA) to check if the company is authorized and to report the scam. Remember to keep all records of your communications with the company, as this will be helpful for your report.",
+    "source_document": "Protecting Yourself - Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been receiving a lot of information about COVID-19 vaccinations. How can I tell what's real and what's fake?",
+    "input": "",
+    "output": "It's great that you're being cautious about the information you receive regarding COVID-19 vaccinations. There is a lot of misinformation, disinformation, and fake news circulating, so it's important to be able to distinguish between reliable and unreliable sources. You should always get your information from trusted sources such as the NHS, the World Health Organization (WHO), and other official health bodies. Be wary of information shared on social media, and always check the source before believing or sharing it. Remember that vaccinations have been proven to be safe and effective in preventing serious illness from COVID-19. If you have any doubts or questions, it's always best to speak to a healthcare professional.",
+    "source_document": "Protecting Yourself - Get Safe Online",
+    "source_url": "https://www.getsafeonline.org/protecting-yourself/",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from SIM swap fraud?",
+    "input": "",
+    "output": "SIM swap fraud is a serious threat, but there are ways to protect yourself. Be wary of unexpected calls or messages from your mobile provider, and never give out personal or financial information in response to an unsolicited request. You should also be cautious about sharing personal information on social media, as this can be used by fraudsters to impersonate you. It's a good idea to use strong, unique passwords for your online accounts and to enable two-factor authentication wherever possible. If you lose signal on your phone unexpectedly, contact your mobile provider immediately to check if your SIM has been swapped. By being vigilant and taking these precautions, you can significantly reduce your risk of becoming a victim of SIM swap fraud.",
+    "source_document": "Blog",
+    "source_url": "https://www.getsafeonline.org/personal/blog/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about romance fraud. How can I stay safe when dating online?",
+    "input": "",
+    "output": "It's important to be cautious when dating online to protect yourself from romance fraud. One way to do this is to use secure messaging apps that can help to verify the identity of the person you're talking to. Be wary of anyone who asks for money, regardless of the reason they give. You should also be cautious about sharing personal information, such as your address or financial details. If you're unsure about someone, you can do a reverse image search to see if their photos have been used elsewhere. Trust your instincts, and if something feels wrong, it probably is. Remember that genuine relationships are built on trust and mutual respect, not on financial transactions.",
+    "source_document": "Blog",
+    "source_url": "https://www.getsafeonline.org/personal/blog/",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  }
+]

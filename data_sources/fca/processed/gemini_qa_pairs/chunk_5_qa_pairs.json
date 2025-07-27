@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I've been offered a way to access my pension early. Is this a legitimate offer?",
+    "input": "",
+    "output": "You should be extremely cautious about any offer to access your pension before you are 55. It is almost certainly a scam. These schemes, often called 'pension liberation' or 'pension loans', are designed to trick you into transferring your pension pot into a fraudulent scheme. You could lose a significant amount of your pension to high fees, and you could also face a large tax bill from HMRC. Generally, you can only access your pension when you are 55 or older, except in very specific circumstances such as ill health. If you are worried about money and are considering accessing your pension, you should seek free, impartial advice from a service like MoneyHelper. They can help you understand your options and avoid falling victim to a pension scam.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a pension scam?",
+    "input": "",
+    "output": "Pension scams can be very convincing, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly about your pension, or who uses high-pressure sales tactics to get you to make a quick decision. Scammers often promise guaranteed high returns on your investment, or they may offer unusual or unregulated investments. They may also use complicated structures that make it difficult to understand where your money is going. If you are unsure about an offer, you should check the FCA's ScamSmart website and their Financial Services Register to see if the firm is authorized. Remember, if an offer seems too good to be true, it probably is.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if an investment or pension opportunity is a scam?",
+    "input": "",
+    "output": "The FCA has a ScamSmart Investment Checker that you can use to help you identify if an investment or pension opportunity is a scam. You can find this tool on the ScamSmart website. You will be asked a series of questions about the opportunity you have been offered, and the tool will then give you a score to indicate how likely it is to be a scam. The tool will also provide you with information and guidance on what to do next. In addition to using the ScamSmart Investment Checker, you should also check the FCA's Warning List to see if the firm is known to be operating without authorization. By using these tools, you can help to protect yourself from investment and pension scams.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been asked to share my screen with someone who says they are from my bank. Should I do this?",
+    "input": "",
+    "output": "No, you should never share your screen with someone who contacts you unexpectedly, even if they say they are from your bank. This is a common tactic used in screen sharing scams. Scammers will try to gain your trust and convince you that they can help you with something, such as an investment or a banking service. They will then ask you to download legitimate screen sharing software, which will give them access to your computer and all of your personal and financial information. Once they have access to your screen, they can steal your money and your identity. If you are ever asked to share your screen, you should refuse and end the call immediately. You should then contact your bank directly to report the incident.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  }
+]

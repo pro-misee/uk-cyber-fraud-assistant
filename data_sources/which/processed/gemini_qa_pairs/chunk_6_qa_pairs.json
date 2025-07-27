@@ -1,0 +1,33 @@
+
+[
+  {
+    "instruction": "I've been scammed and it's affecting my mental health. Where can I get support?",
+    "input": "",
+    "output": "Being scammed can be a very distressing experience, and it's important to remember that it's not your fault. If you're struggling with your mental health after a scam, there are organizations that can provide support. Mind has a confidential information and support line called Mind Infoline, available on 0300 123 3393 (lines open 9am - 6pm, Monday - Friday). Victim Support also offers a free helpline where you can speak to someone confidentially, available on 0808 16 89 111 (lines open 24/7). Reaching out to these services can provide you with a safe space to talk about your experience and get the help you need.",
+    "source_document": "Scams - Which? Consumer Rights - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I help Which? to protect others from scams?",
+    "input": "",
+    "output": "You can help Which? to protect others from scams by sharing the details of any scam you have encountered. Which? has a 'Share scam details' tool on their website where you can provide information about your experience. This information helps them to inform their scams content, research, and policy work, ultimately contributing to a clearer picture of how scams work and who is behind them. By sharing your experience, you are helping to build a collective knowledge base that can be used to warn and protect other consumers from falling victim to similar fraudulent schemes.",
+    "source_document": "Scams - Which? Consumer Rights - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I saw an advert on social media for an investment scheme called Quantum AI. Is it legitimate?",
+    "input": "",
+    "output": "You are right to be suspicious of the Quantum AI investment scheme. Which? has exposed this as a global scam that uses AI to impersonate celebrities and organizations, including the BBC, Elon Musk, and David Beckham, to promote a fraudulent investment scheme. The scam has reappeared recently with adverts circulating on Facebook and Instagram. These adverts often promise high returns, use fake testimonials, and pressure you to invest quickly. You should not invest any money in this scheme. Instead, you should report any such adverts to the social media platform where you saw them and to Action Fraud. By being aware of these tactics, you can protect yourself from falling victim to such sophisticated scams.",
+    "source_document": "which linked page 7",
+    "source_url": "https://www.which.co.uk/news/article/what-is-the-quantum-ai-scam-acsiK7o1b7qr",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  }
+]

@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I've lost money to a scam. Who should I report it to?",
+    "input": "",
+    "output": "If you've lost money to a scam, it's important to report it to your bank or payment provider as soon as possible. They should investigate the fraud and try to recover your money. You should also report the scam to Action Fraud, which is the UK's national reporting centre for fraud and cybercrime. You can report it to them online or by calling 0300 123 2040. If you live in Scotland, you should report the scam to the police by calling 101. By reporting the scam, you can help to prevent others from becoming victims.",
+    "source_document": "Report scams to warn othersGuidance on how to report different types of scams and what to do straight away.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I received a scam email. What should I do with it?",
+    "input": "",
+    "output": "If you receive a scam email, you should forward it to report@phishing.gov.uk. The National Cyber Security Centre (NCSC) will investigate the scam and may be able to prevent other people from being targeted. You can also report the scam email to your email provider. For example, on Gmail, you can click 'Report spam'. By reporting scam emails, you can help to make the internet a safer place for everyone.",
+    "source_document": "Report scams to warn othersGuidance on how to report different types of scams and what to do straight away.",
+    "source_url": "https://www.which.co.uk/consumer-rights/advice/how-to-report-a-scam-aG3sH5L8tjeP",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been a victim of a bank transfer scam. What should I do?",
+    "input": "",
+    "output": "If you have been a victim of a bank transfer scam, you should contact your bank immediately. They will investigate the scam and try to recover your money. You should also report the scam to Action Fraud. It is important to act quickly, as this will increase your chances of getting your money back. You can also use the Which? template letter to complain to your bank about the scam. By taking these steps, you can help to protect yourself and others from becoming victims of bank transfer scams.",
+    "source_document": "Reporting scams Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/reporting-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think my identity has been stolen. What should I do?",
+    "input": "",
+    "output": "If you think your identity has been stolen, you should contact your bank or credit card company and the police as soon as possible. They will be able to help you to secure your accounts and prevent any further fraudulent activity. You should also check your credit report to see if there are any accounts or loans that you do not recognize. It is important to act quickly to minimize the damage that can be caused by identity theft. By taking these steps, you can help to protect yourself and your finances.",
+    "source_document": "Reporting scams Advice - Which?",
+    "source_url": "https://www.which.co.uk/consumer-rights/scams/reporting-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  }
+]

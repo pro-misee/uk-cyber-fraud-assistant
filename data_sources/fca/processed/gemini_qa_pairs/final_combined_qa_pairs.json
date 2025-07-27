@@ -1,0 +1,243 @@
+
+[
+  {
+    "instruction": "I need help with my finances. Where can I get reliable information?",
+    "input": "",
+    "output": "It's great that you're seeking out reliable financial information. The Financial Conduct Authority (FCA) is the UK's financial regulator, and their website is a great place to start. They offer a range of resources to help you with your finances, including information on bank accounts, debts, investments, and pensions. They also work with MoneyHelper, a government-backed service that provides free, impartial help on a wide range of financial topics. You can use the MoneyHelper website to find information and guidance on everything from budgeting and saving to borrowing and mortgages. By using these resources, you can be confident that you're getting accurate and trustworthy information to help you make informed financial decisions.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if a financial firm is legitimate?",
+    "input": "",
+    "output": "It's very important to check that a financial firm is legitimate before you deal with them. The FCA has a Financial Services Register that you can use to check if a firm is authorized and has the right permissions to offer the services they are providing. You can search the register for both firms and individuals. If a firm is not on the register, it is not authorized by the FCA and you should not deal with them. You should also be wary of firms that contact you out of the blue, or that pressure you to make a quick decision. By using the Financial Services Register and being cautious, you can protect yourself from scams and unauthorized firms.",
+    "source_document": "Consumers | FCA",
+    "source_url": "https://www.fca.org.uk/consumers",
+    "chunk_number": 1,
+    "document_index": 0,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been offered a way to get cash from my pension before I'm 55. Is this a good idea?",
+    "input": "",
+    "output": "You should be extremely cautious about any offer to release cash from your pension before you're 55. It is almost certainly a scam. Generally, you can only access your pension when you are 55 or older, except in very specific circumstances, such as ill health. These scams, often called 'pension liberation' or 'pension loans', can have very serious consequences. You could lose a significant portion of your pension to fees, and you could also face a large tax bill from HMRC. If you are worried about money and are considering accessing your pension, you should seek free, impartial advice from a service like MoneyHelper. They can help you understand your options and avoid falling victim to a pension scam.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a pension scam?",
+    "input": "",
+    "output": "Pension scams can be very convincing, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly about your pension, or who uses high-pressure sales tactics to get you to make a quick decision. Scammers often promise guaranteed high returns on your investment, or they may offer unusual or unregulated investments. They may also use complicated structures that make it difficult to understand where your money is going. If you are unsure about an offer, you should check the FCA's ScamSmart website and their Financial Services Register to see if the firm is authorized. Remember, if an offer seems too good to be true, it probably is.",
+    "source_document": "avoid pension scams",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 1,
+    "document_index": 1,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been scammed. Who should I report it to?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to report it as soon as possible. If the scam involves a financial service that the FCA regulates, you should report it to them. This includes scams related to investments, pensions, loans, and insurance. You can report a scam to the FCA through their website. If you have given the scammers any of your personal information or made a payment, you should also contact your bank immediately. For other types of scams, such as driving licence or tax scams, you should contact Action Fraud or Police Scotland. By reporting the scam, you can help to protect others from becoming victims.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I spot a fake email or message from the FCA?",
+    "input": "",
+    "output": "It's important to be able to spot fake communications from the FCA, as scammers may try to impersonate them. The FCA will never ask you to transfer money to them, and they will never ask for your bank account PINs or passwords. If you receive an email, text message, or phone call that you are not sure about, you should not reply or click on any links. Instead, you should contact the FCA directly using the contact details on their website. You can also check the FCA's website for information on the latest scams and how to spot fake communications. By being vigilant, you can protect yourself from scammers who may be pretending to be from the FCA.",
+    "source_document": "report a scam or unauthorised firm",
+    "source_url": "https://www.fca.org.uk/consumers/report-scam-unauthorised-firm",
+    "chunk_number": 2,
+    "document_index": 2,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted unexpectedly about an investment opportunity. What should I do?",
+    "input": "",
+    "output": "You should be very cautious if you are contacted unexpectedly about an investment opportunity. This is a common tactic used by scammers. You should never feel pressured to make a quick decision, and you should be wary of any offer that sounds too good to be true. Before you invest any money, you should check the FCA's Financial Services Register to make sure that the firm is authorized. You can also use the FCA's ScamSmart website to get more information about how to avoid investment scams. If you are unsure about an investment, you should seek independent financial advice from a qualified professional. By taking your time and doing your research, you can protect yourself from investment scams.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What should I do if I think I've been scammed?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop all contact with the scammers and do not send them any more money. You should then contact your bank to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to the FCA and Action Fraud. By reporting the scam, you can help to protect others from becoming victims. It's also a good idea to talk to someone you trust, such as a friend or family member. Being scammed can be a very stressful experience, and it's important to get support.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/avoid-scams-unauthorised-firms",
+    "chunk_number": 2,
+    "document_index": 3,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been asked to pay an upfront fee for a loan. Is this normal?",
+    "input": "",
+    "output": "You should be very wary of any company that asks you to pay an upfront fee for a loan. This is a common scam known as loan fee fraud. Legitimate lenders will not ask you to pay a fee in advance. Scammers often target people who have been searching for loans online, and they may pressure you to pay the fee quickly. They may also ask you to pay the fee in an unusual way, such as with a voucher or through a crypto exchange. If you pay the fee, you will not receive the loan, and you will not get your money back. If you need a loan, you should only deal with firms that are authorized by the FCA. You can check the FCA's Financial Services Register to see if a firm is authorized.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from loan fee fraud?",
+    "input": "",
+    "output": "To protect yourself from loan fee fraud, you should only deal with financial firms that are authorized by the FCA. You can use the FCA's Firm Checker to make sure that a firm is authorized and has the correct permissions to offer the service you are looking for. You should also be wary of any firm that contacts you unexpectedly, or that pressures you to make a quick decision. If you are unsure about a loan offer, you should seek independent financial advice. If you are struggling with debt, you can get free guidance from MoneyHelper. By being cautious and doing your research, you can protect yourself from loan fee fraud.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been asked to pay an upfront fee for a loan. Is this a scam?",
+    "input": "",
+    "output": "It is highly likely that this is a scam. This is a common tactic used in what is known as 'loan fee fraud'. Fraudsters will contact you, often after you have applied for loans online, and offer you a loan. They will then ask for an upfront fee, which they may call a deposit, administrative fee, or insurance. They might even claim it's because you have a bad credit history. They will pressure you to pay this fee quickly, often through a bank transfer or by purchasing vouchers. Once you have paid the fee, you will never receive the loan, and you will not get your money back. You should never pay an upfront fee for a loan. If you need a loan, you should only deal with firms that are authorised by the FCA. You can check if a firm is authorised by using the FCA Firm Checker.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if a loan company is legitimate?",
+    "input": "",
+    "output": "To check if a loan company is legitimate, you should use the FCA Firm Checker. This will tell you if the company is authorised by the FCA and has the necessary permissions to offer loans. You should also check that the contact details of the firm match the details on the FCA Register. If they don't, you should not deal with the firm. Be wary of any company that contacts you unexpectedly or pressures you to make a quick decision. If you are struggling with money, you can get free guidance from MoneyHelper. By taking these steps, you can protect yourself from loan fee fraud and ensure that you are dealing with a legitimate company.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "Where can I find resources to help me avoid scams?",
+    "input": "",
+    "output": "The FCA provides a range of resources to help you avoid scams. You can download their campaign resources to learn more about savings, loan fee fraud, and how to avoid investment and pension scams. They also have a ScamSmart website with information and tools to help you be a ScamSmart investor. You can use the ScamSmart Investment Checker to check an investment or pension opportunity you've been offered. They also have resources on their website about how to protect yourself from scams, including how to spot the warning signs and what to do if you've been scammed. By using these resources, you can arm yourself with the knowledge you need to stay safe from financial scams.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I'm worried about investment scams. What can I do?",
+    "input": "",
+    "output": "It's right to be cautious about investment scams. The FCA has a lot of information to help you protect yourself. You can use their ScamSmart website to learn about different types of investment scams, such as cryptoasset scams, boiler room scams, and land banking scams. They also have a ScamSmart Investment Checker that you can use to check an investment opportunity you've been offered. It's important to remember that if an investment sounds too good to be true, it probably is. You should always check that the firm you are dealing with is authorized by the FCA, and you should never feel pressured to make a quick decision. By being informed and cautious, you can significantly reduce your risk of becoming a victim of an investment scam.",
+    "source_document": "Download our campaign resources and help others be ScamSmart",
+    "source_url": "https://www.fca.org.uk/consumers/campaign-resources",
+    "chunk_number": 4,
+    "document_index": 6,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been contacted by someone who says they are from the FCA. How can I be sure they are genuine?",
+    "input": "",
+    "output": "You should always be wary of anyone who contacts you claiming to be from the FCA. The FCA will never ask you to transfer money to them, and they will never ask for your bank account PINs or passwords. If you are contacted by someone who says they are from the FCA, you should not give them any personal or financial information. Instead, you should end the call and contact the FCA directly using the contact details on their website. You can also check the FCA's website for information on how to spot fake FCA communications. By being vigilant, you can protect yourself from scammers who may be impersonating the FCA.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the common signs of a financial scam?",
+    "input": "",
+    "output": "Financial scams can be very sophisticated, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. Scammers often promise high returns on an investment, or they may offer you a bonus or discount if you invest quickly. They may also claim that the opportunity is only available for a short time, or that it is an exclusive offer just for you. Scammers may also try to build a friendship with you to put you at ease, or they may try to influence your emotions to get you to act. If you notice any of these warning signs, you should be very suspicious and should not proceed with the investment.",
+    "source_document": "Protect yourself from scams | FCA",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 4,
+    "document_index": 7,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been offered a way to access my pension early. Is this a legitimate offer?",
+    "input": "",
+    "output": "You should be extremely cautious about any offer to access your pension before you are 55. It is almost certainly a scam. These schemes, often called 'pension liberation' or 'pension loans', are designed to trick you into transferring your pension pot into a fraudulent scheme. You could lose a significant amount of your pension to high fees, and you could also face a large tax bill from HMRC. Generally, you can only access your pension when you are 55 or older, except in very specific circumstances such as ill health. If you are worried about money and are considering accessing your pension, you should seek free, impartial advice from a service like MoneyHelper. They can help you understand your options and avoid falling victim to a pension scam.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the warning signs of a pension scam?",
+    "input": "",
+    "output": "Pension scams can be very convincing, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly about your pension, or who uses high-pressure sales tactics to get you to make a quick decision. Scammers often promise guaranteed high returns on your investment, or they may offer unusual or unregulated investments. They may also use complicated structures that make it difficult to understand where your money is going. If you are unsure about an offer, you should check the FCA's ScamSmart website and their Financial Services Register to see if the firm is authorized. Remember, if an offer seems too good to be true, it probably is.",
+    "source_document": "How they work",
+    "source_url": "https://www.fca.org.uk/consumers/pension-scams",
+    "chunk_number": 5,
+    "document_index": 8,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if an investment or pension opportunity is a scam?",
+    "input": "",
+    "output": "The FCA has a ScamSmart Investment Checker that you can use to help you identify if an investment or pension opportunity is a scam. You can find this tool on the ScamSmart website. You will be asked a series of questions about the opportunity you have been offered, and the tool will then give you a score to indicate how likely it is to be a scam. The tool will also provide you with information and guidance on what to do next. In addition to using the ScamSmart Investment Checker, you should also check the FCA's Warning List to see if the firm is known to be operating without authorization. By using these tools, you can help to protect yourself from investment and pension scams.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been asked to share my screen with someone who says they are from my bank. Should I do this?",
+    "input": "",
+    "output": "No, you should never share your screen with someone who contacts you unexpectedly, even if they say they are from your bank. This is a common tactic used in screen sharing scams. Scammers will try to gain your trust and convince you that they can help you with something, such as an investment or a banking service. They will then ask you to download legitimate screen sharing software, which will give them access to your computer and all of your personal and financial information. Once they have access to your screen, they can steal your money and your identity. If you are ever asked to share your screen, you should refuse and end the call immediately. You should then contact your bank directly to report the incident.",
+    "source_document": "ScamSmart - Avoid investment and pension scams | FCA",
+    "source_url": "https://www.fca.org.uk/scamsmart",
+    "chunk_number": 5,
+    "document_index": 9,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I was contacted by someone who wanted me to share my screen. What is a screen sharing scam?",
+    "input": "",
+    "output": "A screen sharing scam is a method that fraudsters use to gain access to your personal and financial information. They may contact you out of the blue, pretending to be from a legitimate company, such as your bank or an investment firm. They will then try to convince you to download screen sharing software, which will give them remote access to your computer. Once they have access to your screen, they can see everything you do, including your online banking details, passwords, and other sensitive information. They can then use this information to steal your money and your identity. It is important to remember that a legitimate company will never ask you to share your screen. If you are ever asked to do this, you should refuse and end the call immediately.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from screen sharing scams?",
+    "input": "",
+    "output": "To protect yourself from screen sharing scams, you should never share your screen with anyone who contacts you unexpectedly, even if they claim to be from a legitimate company. You should also be wary of anyone who puts you under pressure to make a quick decision, or who promises you high returns on an investment. If you are unsure about a company, you should check the FCA's Financial Services Register to see if they are authorized. You should also be careful about what information you share online, as scammers can use this information to target you. If you think you have been a victim of a screen sharing scam, you should contact your bank and the FCA immediately.",
+    "source_document": "Learn more",
+    "source_url": "https://www.fca.org.uk/consumers/screen-sharing-scams",
+    "chunk_number": 6,
+    "document_index": 10,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I think I've been scammed. What should I do?",
+    "input": "",
+    "output": "If you think you've been scammed, it's important to act quickly. First, you should stop all contact with the scammers and do not send them any more money. You should then contact your bank to let them know what has happened. They may be able to block your card or recover some of your money. You should also report the scam to the FCA and Action Fraud. By reporting the scam, you can help to protect others from becoming victims. It's also a good idea to talk to someone you trust, such as a friend or family member. Being scammed can be a very stressful experience, and it's important to get support.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "What are the common signs of a financial scam?",
+    "input": "",
+    "output": "Financial scams can be very sophisticated, but there are some common warning signs to look out for. Be wary of anyone who contacts you unexpectedly, or who pressures you to make a quick decision. Scammers often promise high returns on an investment, or they may offer you a bonus or discount if you invest quickly. They may also claim that the opportunity is only available for a short time, or that it is an exclusive offer just for you. Scammers may also try to build a friendship with you to put you at ease, or they may try to influence your emotions to get you to act. If you notice any of these warning signs, you should be very suspicious and should not proceed with the investment.",
+    "source_document": "protect myself from scams",
+    "source_url": "https://www.fca.org.uk/consumers/protect-yourself-scams",
+    "chunk_number": 6,
+    "document_index": 11,
+    "generated_by": "gemini"
+  }
+]

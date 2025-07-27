@@ -1,0 +1,43 @@
+
+[
+  {
+    "instruction": "I've been asked to pay an upfront fee for a loan. Is this normal?",
+    "input": "",
+    "output": "You should be very wary of any company that asks you to pay an upfront fee for a loan. This is a common scam known as loan fee fraud. Legitimate lenders will not ask you to pay a fee in advance. Scammers often target people who have been searching for loans online, and they may pressure you to pay the fee quickly. They may also ask you to pay the fee in an unusual way, such as with a voucher or through a crypto exchange. If you pay the fee, you will not receive the loan, and you will not get your money back. If you need a loan, you should only deal with firms that are authorized by the FCA. You can check the FCA's Financial Services Register to see if a firm is authorized.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I protect myself from loan fee fraud?",
+    "input": "",
+    "output": "To protect yourself from loan fee fraud, you should only deal with financial firms that are authorized by the FCA. You can use the FCA's Firm Checker to make sure that a firm is authorized and has the correct permissions to offer the service you are looking for. You should also be wary of any firm that contacts you unexpectedly, or that pressures you to make a quick decision. If you are unsure about a loan offer, you should seek independent financial advice. If you are struggling with debt, you can get free guidance from MoneyHelper. By being cautious and doing your research, you can protect yourself from loan fee fraud.",
+    "source_document": "Loan fee fraud: spot the warning signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 4,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "I've been asked to pay an upfront fee for a loan. Is this a scam?",
+    "input": "",
+    "output": "It is highly likely that this is a scam. This is a common tactic used in what is known as 'loan fee fraud'. Fraudsters will contact you, often after you have applied for loans online, and offer you a loan. They will then ask for an upfront fee, which they may call a deposit, administrative fee, or insurance. They might even claim it's because you have a bad credit history. They will pressure you to pay this fee quickly, often through a bank transfer or by purchasing vouchers. Once you have paid the fee, you will never receive the loan, and you will not get your money back. You should never pay an upfront fee for a loan. If you need a loan, you should only deal with firms that are authorised by the FCA. You can check if a firm is authorised by using the FCA Firm Checker.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  },
+  {
+    "instruction": "How can I check if a loan company is legitimate?",
+    "input": "",
+    "output": "To check if a loan company is legitimate, you should use the FCA Firm Checker. This will tell you if the company is authorised by the FCA and has the necessary permissions to offer loans. You should also check that the contact details of the firm match the details on the FCA Register. If they don't, you should not deal with the firm. Be wary of any company that contacts you unexpectedly or pressures you to make a quick decision. If you are struggling with money, you can get free guidance from MoneyHelper. By taking these steps, you can protect yourself from loan fee fraud and ensure that you are dealing with a legitimate company.",
+    "source_document": "Spot the signs",
+    "source_url": "https://www.fca.org.uk/consumers/loan-fee-fraud",
+    "chunk_number": 3,
+    "document_index": 5,
+    "generated_by": "gemini"
+  }
+]

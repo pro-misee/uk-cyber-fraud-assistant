@@ -1,0 +1,26 @@
+{
+  "created_at": "2025-07-25T17:45:01.447160",
+  "total_qa_pairs": 111,
+  "training_pairs": 88,
+  "validation_pairs": 23,
+  "sources_included": [
+    "fca",
+    "ukfinance",
+    "which",
+    "actionfraud",
+    "getsafeonline"
+  ],
+  "source_distribution": {
+    "fca": 24,
+    "ukfinance": 10,
+    "which": 19,
+    "actionfraud": 39,
+    "getsafeonline": 19
+  },
+  "files": {
+    "master_dataset": "master_fraud_qa_dataset.json",
+    "training_dataset": "train_fraud_qa_dataset.json",
+    "validation_dataset": "val_fraud_qa_dataset.json",
+    "analysis_csv": "master_fraud_qa_dataset.csv"
+  }
+}
