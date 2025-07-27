@@ -28,6 +28,8 @@ fraud_chatbot_env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb
+notebooks/
 
 # IDE
 .vscode/
