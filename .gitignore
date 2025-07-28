@@ -28,7 +28,7 @@ fraud_chatbot_env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.ipynb
+*.ipynb
 notebooks/
 
 # IDE
