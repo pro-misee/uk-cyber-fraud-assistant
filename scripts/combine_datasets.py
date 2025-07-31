@@ -35,7 +35,7 @@ class DatasetCombiner:
         qa_file = self.data_sources_dir / source_name / "processed" / "gemini_qa_pairs" / "final_combined_qa_pairs.json"
         
         if not qa_file.exists():
-            print(f"⚠️  No processed data found for {source_name} at {qa_file}")
+            print(f"No processed data found for {source_name} at {qa_file}")
             return []
         
         try:
@@ -43,7 +43,7 @@ class DatasetCombiner:
                 data = json.load(f)
             
             if not isinstance(data, list):
-                print(f"❌ Expected list format for {source_name}, got {type(data)}")
+                print(f"Expected list format for {source_name}, got {type(data)}")
                 return []
             
             # Add source metadata to each Q&A pair
@@ -51,11 +51,11 @@ class DatasetCombiner:
                 item['data_source'] = source_name
                 item['source_priority'] = self.sources[source_name]['priority']
             
-            print(f"✅ Loaded {len(data)} Q&A pairs from {source_name}")
+            print(f"Loaded {len(data)} Q&A pairs from {source_name}")
             return data
             
         except Exception as e:
-            print(f"❌ Error loading {source_name}: {e}")
+            print(f"Error loading {source_name}: {e}")
             return []
     
     def validate_qa_pair(self, qa_pair: Dict[str, Any]) -> bool:
@@ -80,7 +80,7 @@ class DatasetCombiner:
         all_qa_pairs = []
         source_stats = {}
         
-        print("🔄 Combining datasets from all sources...")
+        print("Combining datasets from all sources...")
         print("=" * 50)
         
         for source_name, config in self.sources.items():
@@ -91,7 +91,7 @@ class DatasetCombiner:
             invalid_count = len(qa_data) - len(valid_pairs)
             
             if invalid_count > 0:
-                print(f"⚠️  Filtered out {invalid_count} invalid Q&A pairs from {source_name}")
+                print(f"Filtered out {invalid_count} invalid Q&A pairs from {source_name}")
             
             all_qa_pairs.extend(valid_pairs)
             source_stats[source_name] = {
@@ -106,7 +106,7 @@ class DatasetCombiner:
             status = "✅" if stats['valid_pairs'] > 0 else "❌"
             print(f"  {status} {source}: {stats['valid_pairs']}/{stats['expected_pairs']} pairs")
         
-        print(f"\n🎯 Total combined dataset: {len(all_qa_pairs)} Q&A pairs")
+        print(f"\n Total combined dataset: {len(all_qa_pairs)} Q&A pairs")
         return all_qa_pairs
     
     def create_train_validation_split(self, qa_pairs: List[Dict[str, Any]], 
@@ -123,18 +123,17 @@ class DatasetCombiner:
         train_data = shuffled_pairs[:split_idx]
         val_data = shuffled_pairs[split_idx:]
         
-        print(f"📈 Dataset split: {len(train_data)} training, {len(val_data)} validation")
+        print(f"Dataset split: {len(train_data)} training, {len(val_data)} validation")
         return train_data, val_data
     
     def format_for_llama2(self, qa_pairs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Format Q&A pairs for LLaMA 2 fine-tuning with UK fraud assistant system prompt."""
-        
-        system_prompt = """You are a specialized AI assistant helping UK fraud victims. You provide empathetic, accurate, and actionable guidance based on official UK fraud prevention resources. Always:
+
+        system_prompt = """You are a specialized AI assistant helping UK cyber fraud victims. You provide empathetic, accurate, and actionable guidance based on official UK cyber fraud prevention resources. Always:
 
 - Respond with empathy and understanding
 - Provide specific UK contact numbers and procedures
-- Include Action Fraud (0300 123 2040) for reporting
-- Reassure victims that fraud is not their fault
+- Reassure victims that cyber fraud is not their fault
 - Give clear, step-by-step guidance
 - Direct to appropriate authorities (Action Fraud, local police, banks)
 - Maintain a supportive, non-judgmental tone"""
@@ -207,12 +206,12 @@ class DatasetCombiner:
         with open(info_file, 'w', encoding='utf-8') as f:
             json.dump(dataset_info, f, indent=2, ensure_ascii=False)
         
-        print(f"💾 Datasets saved to {self.output_dir}/")
-        print(f"  📄 Master: {master_file.name} ({len(all_data)} pairs)")
-        print(f"  🎓 Training: {train_file.name} ({len(train_data)} pairs)")
-        print(f"  ✅ Validation: {val_file.name} ({len(val_data)} pairs)")
-        print(f"  📊 Analysis: {csv_file.name}")
-        print(f"  ℹ️  Info: {info_file.name}")
+        print(f" Datasets saved to {self.output_dir}/")
+        print(f"   Master: {master_file.name} ({len(all_data)} pairs)")
+        print(f"   Training: {train_file.name} ({len(train_data)} pairs)")
+        print(f"   Validation: {val_file.name} ({len(val_data)} pairs)")
+        print(f"   Analysis: {csv_file.name}")
+        print(f"    Info: {info_file.name}")
         
         return dataset_info
     
@@ -220,22 +219,22 @@ class DatasetCombiner:
         """Generate sample conversations to preview the dataset quality."""
         import random
         
-        print(f"\n💬 Sample Conversations (previewing {num_samples} examples):")
+        print(f"\n Sample Conversations (previewing {num_samples} examples):")
         print("=" * 70)
         
         samples = random.sample(data, min(num_samples, len(data)))
         
         for i, sample in enumerate(samples, 1):
-            print(f"\n🔹 Sample {i} (Source: {sample.get('data_source', 'unknown')})")
-            print(f"👤 User: {sample['instruction']}")
-            print(f"🤖 Assistant: {sample['output'][:200]}...")
+            print(f"\n Sample {i} (Source: {sample.get('data_source', 'unknown')})")
+            print(f" User: {sample['instruction']}")
+            print(f" Assistant: {sample['output'][:200]}...")
             if len(sample['output']) > 200:
                 print("   [...truncated]")
             print("-" * 50)
 
 def main():
     """Main execution function."""
-    print("🚀 UK Fraud Chatbot Dataset Combiner")
+    print(" UK Fraud Chatbot Dataset Combiner")
     print("=" * 50)
     
     # Initialize combiner
@@ -245,7 +244,7 @@ def main():
     all_qa_pairs = combiner.combine_all_sources()
     
     if not all_qa_pairs:
-        print("❌ No valid Q&A pairs found. Please check your data sources.")
+        print(" No valid Q&A pairs found. Please check your data sources.")
         return
     
     # Format for LLaMA 2
@@ -260,7 +259,7 @@ def main():
     # Generate preview
     combiner.generate_sample_conversations(formatted_pairs)
     
-    print(f"\n🎉 Dataset combination completed successfully!")
+    print(f"\n Dataset combination completed successfully!")
     print(f"Ready for LLaMA 2 fine-tuning with {len(formatted_pairs)} total Q&A pairs")
     
     return dataset_info

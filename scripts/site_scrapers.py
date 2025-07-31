@@ -105,7 +105,7 @@ def scrape_site(base_url, test_urls, source_name, save_callback, session, delay=
             
             # Check if we got meaningful content
             if len(content.strip()) > 200 and "JavaScript" not in content:
-                print(f"✅ Found content at: {start_url}")
+                print(f"Found content at: {start_url}")
                 
                 save_callback({
                     'url': start_url,
@@ -121,7 +121,7 @@ def scrape_site(base_url, test_urls, source_name, save_callback, session, delay=
                     scrape_linked_pages(soup, base_url, source_name, save_callback, session, delay)
                 
             else:
-                print(f"❌ No meaningful content at: {start_url}")
+                print(f"No meaningful content at: {start_url}")
             
             time.sleep(delay)  # Rate limiting
             

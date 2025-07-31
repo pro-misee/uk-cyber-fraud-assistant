@@ -1,8 +1,3 @@
-"""
-Web scraper for UK cyber fraud guidance content
-Following methodology from METHODOLOGY.md for data collection phase
-"""
-
 import requests
 import json
 from pathlib import Path
@@ -10,12 +5,9 @@ import pandas as pd
 from site_scrapers import scrape_site, SITE_CONFIGS
 
 
-class FraudGuidanceScraper:
-    """Main orchestrator for fraud guidance website scraping"""
-    
+class FraudGuidanceScraper:    
     def __init__(self, source_name, delay=3):
         self.source_name = source_name
-        # Use project root directory instead of current directory
         project_root = Path(__file__).parent.parent
         self.output_dir = project_root / "data_sources" / source_name / "scraped"
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -26,9 +18,8 @@ class FraudGuidanceScraper:
         })
     
     def scrape_site(self):
-        """Scrape the specified source site using generic scraper"""
         if self.source_name not in SITE_CONFIGS:
-            print(f"❌ No configuration available for: {self.source_name}")
+            print(f"No configuration available for: {self.source_name}")
             return
         
         config = SITE_CONFIGS[self.source_name]
